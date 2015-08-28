@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.225:5000
+#EXTINF:0,Discovery Channel HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.253:5000
+#EXTINF:0,Discovery Science HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.195:5000
+#EXTINF:0,History HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.230:5000
+#EXTINF:0,Nat Geo Wild HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.133:5000
+#EXTINF:0,National Geographic HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.159:5000
+#EXTINF:0,Travel+ Adventure HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.156:5000
+#EXTINF:0,Outdoor HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.163:5000
+#EXTINF:0,MyZen.TV HD
+http://176.51.9.146:1234/udp/233.7.70.160:5000
+#EXTINF:0,Fashion One HD
+http://176.51.9.146:1234/udp/233.7.70.162:5000
+#EXTINF:0,FOX HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.127:5000
+#EXTINF:0,FOX Life HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.158:5000
+#EXTINF:0,Paramount Channel HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.114:5000
+#EXTINF:0,Paramount Comedy HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.106:5000
+#EXTINF:0,SET HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.126:5000
+#EXTINF:0,TLC HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.211:5000
+#EXTINF:0,Amedia HIT HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.93:5000
+#EXTINF:0,Amedia Premium HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.239:5000
+#EXTINF:0,Nickelodeon HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.164:5000
+#EXTINF:0,Eurosport HD
+#EXTVLCOPT:audio-track=1
+http://176.51.9.146:1234/udp/233.7.70.199:5000
+#EXTINF:0,MTV Live HD
+http://176.51.9.146:1234/udp/233.7.70.161:5000
+#EXTINF:0,Mezzo Live HD
+http://176.51.9.146:1234/udp/233.7.70.125:5000
