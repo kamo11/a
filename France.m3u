@@ -1,0 +1,699 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", 6TER
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", AfricaBox Series
+http://chkg.tdf-cdn.com/8037/index.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", AfricaBox TV
+http://chkg.tdf-cdn.com/8038/index.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Animania
+http://tv.ut.cx/animania.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Animania
+http://teleclub.fr/animania.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Antenne Centre TV
+http://vm109.imust.org:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Arte
+http://frlive.artestras.cshls.lldns.net/artestras/frlive/frlive/frlive_925.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", arte fr m3u8
+http://pebbles101-lh.akamaihd.net/i/artefr_1@97346/master.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Assemblée Nationale
+http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Best Music HD
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", BFM
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/03.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", BFM Business
+http://bfmlive-i.akamaihd.net/hls/live/218341/876450612001/bfmbusiness/04.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", BFM TV
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Canal 9 HD
+http://httpstream.canal9.ch/canal9live.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Chasse et Peche
+http://87.248.160.8/edge/smil:chassepeche/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", chkg tdf cdn
+http://chkg.tdf-cdn.com/5707/stream1.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Ciné Fil
+http://teleclub.fr/cinefil.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", CineFil
+http://tv.ut.cx/cinefil.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Cinetoile
+http://teleclub.fr/cinetoile.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Cinetoile
+http://tv.ut.cx/cinetoile.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Cinq+
+http://tv.ut.cx/cinqplus.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Cinq+
+http://teleclub.fr/cinqplus.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Club 1
+http://teleclub.fr/club1.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", CNA
+rtmp://str81.creacast.com:80/cna/live.sdp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", D8
+http://stream.streaming-hub.com:8180/live/hls/d8-clair-v3-sd-andr7/and-sd-clair/d8-clair-v3-sd-audio_fra_56000_121%3D56000-video%3D1500000.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Documania
+http://teleclub.fr/documania.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", ENCYCLO
+http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Enorme TV
+http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Eurosport 400P
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", FRANCE
+http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_4/hls_v1/France_4-audio_AACL_fra_70000_335=70000-video=1404000.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", FRANCE 2
+http://fast-fortress-4864.herokuapp.com/stream.streaming-hub.com:8080/simulcast/France_2/hls_v1/France_2-audio_AACL_fra_70000_315=70000-video=1404000.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", france 2
+http://pebbles101-lh.akamaihd.net/i/france2_1@97347/master.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", France 24
+http://tv.flux.france24.com/4684/05.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", France 24 640*330
+http://tv.flux.france24.com/4684/02.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", france 24 720*480
+http://tv.flux.france24.com/4684/05.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", France 3
+http://u.to/o7pVCg
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", FRANCE 3
+http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_3/hls_v1/France_3-audio_AACL_fra_70000_325=70000-video=1404000.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", france 3 m3u8
+http://pebbles100-lh.akamaihd.net/i/france3_1@97329/master.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", France 4
+http://u.to/pLpVCg
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", FRANCE 4
+http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_4/hls_v1/France_4-audio_AACL_fra_70000_335=70000-video=1404000.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", France 5
+http://u.to/pbpVCg
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", france 5 m3u8
+http://pebbles102-lh.akamaihd.net/i/france5_1@97351/master.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Gloubi
+http://tv.ut.cx/gloubi.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Gloubi
+http://teleclub.fr/gloubi.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Grand Lille TV
+rtsp://str81.creacast.com/grandlilletv/high
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", i24 News
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", IL TV
+rtmp://str81.creacast.com:80/iltv/high
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", KTO
+http://mobile.ktotv.com/live/KTO_Layer1.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", KZ TV
+http://ec.playmedia.fr/kztv/live/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", La Chaine Normande
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", LA CHAINE NORMANDIE
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", La Deux
+http://rtmp.infomaniak.ch/livecast/ladeux/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", la meteo rtsp
+rtsp://a988.v101995.c10199.e.vm.akamaistream.net/7/988/10199/3f97c7e6/ftvigrp.download.akamai.com/10199/horsgv/regions/siege/france2/meteo/meteo_GT.wmv
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", La Tele
+http://rtmp.infomaniak.ch/livecast/latele/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Link Antenne Réunion
+http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", M6
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", M6 MUSIC
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Ma Tele 640p
+http://streaming06.axeweb.be:1935/matele_live/_definst_/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Minimax 7h-19h
+http://teleclub.fr/minimax.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Mirabelle TV
+http://str81.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", MONACO INFOS
+rtmp://46.105.34.238/livepkgr/livestream2.flv
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Mosaique
+http://teleclub.fr/mosaique.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Motors TV
+http://95.188.116.4:1234/udp/233.7.70.206:5000
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", MTV Live HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Music Box 80 7h-19h
+http://teleclub.fr/musicbox80.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", MusicBox
+http://teleclub.fr/musicbox.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", No Tele BE
+rtmp://streaming06.axeweb.be:1935/live/direct.stream
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", notele
+rtmp://streaming06.axeweb.be:1935/live/direct.stream
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", OM5 TV
+http://ec.playmedia.fr/om5-tv/live/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", OUI TV
+http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Party Tv HD
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", PTC BE
+http://media.rtc.be/vod/mp4:166597.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Rock Tv HD
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Rouge tv
+http://rtmp.infomaniak.ch/livecast/rougetv/SAT_TOTAL.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", RTC
+http://media.webtvlive.eu/rtc/_definst_/mp4:live_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", RTC
+http://media.webtvlive.eu/rtc/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", RTC TÃ©lÃ© LiÃ¨ge
+http://media.webtvlive.eu/rtc/_definst_/mp4:live_720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", TÃ©lÃ© Bielingue
+http://rtmp.infomaniak.ch/livecast/telebielinguech/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Tébéo
+rtmp://tebeo.e-declic.tv/tebeo_live/myStream.sdp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Tele Bielingue
+http://rtmp.infomaniak.ch/livecast/telebielinguech/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Télé MB
+http://vm109.imust.org:1935/live/telemb-live/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Télé Vesdre
+rtmp://wowza.tvlux.imust.org/live/tvlux-live
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Télé Vesdre
+http://vm109.imust.org:1935/live/televesdre-live/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", TF1
+http://109.87.253.58:8888/udp/238.0.16.66:1234
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", TIJI
+http://88.212.15.20:5000/live/tiji/tiji.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Trek TV
+http://178.218.112.51:7781/udp/234.5.2.43:1234/playlist.mp4?start=0
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", TV Com
+rtsp://37.59.47.86:8000/tvcom_live2.sdp
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", TV Fil 78
+http://rtmp.infomaniak.ch/livecast/tvfil78/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", TV Rennes 35
+http://streaming1.interactivplatform.fr/tvrennes35-live/_definst_/smil:tvrennes35mob.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", TV5 MONDE
+http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", TVA Sport
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", TVM 3
+http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", TVM Est Parisien
+http://rtmp.infomaniak.ch/livecast/cineplume/TVMEstParisien.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Vevo
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", VH1
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Virgin
+rtmp://fms.105.net:1935/live/virgin1 swfUrl=http://myfreetv.ucoz.net/mediaplayer-3.swf live=1 pageUrl=http://myfreetv.ucoz.net/index/virgin_radio_tv/0-253
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Vosges Television
+http://live.vosgestelevision.tv/live/vosgestv/ngrp:vosgestv_all/pls.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", VOX Music HD
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", W9
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Weo
+rtmp://str82.creacast.com:80/weo/low
+#EXTINF:-1 tvg-id=Teleantioquia" tvg-logo="teleantioquia.png" group-title="TV LIVE", Weo (hd)
+rtmp://str81.creacast.com:80/weo/high
+#EXTINF:-1, Mosaique
+http://tv.ut.cx/mosaique.mp4
+ 
+#EXTINF:-1,Premiere
+http://tv.ut.cx/premiere.mp4
+ 
+#EXTINF:-1, Cinétoile
+http://tv.ut.cx/cinetoile.mp4
+ 
+#EXTINF:-1,Cinéfil
+http://tv.ut.cx/cinefil.mp4
+ 
+#EXTINF:-1, Cinq+
+http://tv.ut.cx/cinqplus.mp4
+ 
+#EXTINF:-1, Gloubi
+http://tv.ut.cx/gloubi.mp4
+ 
+#EXTINF:-1,- Music Box
+http://tv.ut.cx/premiere.mp4
+ 
+#EXTINF:-1,Premiere
+http://tv.ut.cx/premiere.mp4
+ 
+#EXTINF:-1, Music Box
+http://tv.ut.cx/musicbox.mp4
+ 
+#EXTINF:-1, Animania
+http://tv.ut.cx/animania.mp4
+ 
+#EXTINF:-1, TF1
+http://se-2.se.tf1-hls.live.numericable.tv/live/hls/tf1/ipad.m3u8
+ 
+#EXTINF:-1, France 2
+http://live.francetv.fr/simulcast/France_2/hls_v1/index.m3u8
+ 
+#EXTINF:-1 ,France 2
+http://se-2.se.france2-hls.live.numericable.tv/live/hls/france2/ipad.m3u8
+ 
+#EXTINF:-1 ,France 3
+http://live.francetv.fr/simulcast/France_3/hls_v1/index.m3u8
+ 
+#EXTINF:-1 ,France 3
+http://se-2.se.france3-hls.live.numericable.tv/live/hls/france3/ipad.m3u8
+#
+EXTINF:-1 ,Canal+ en Clair
+rtmp://live-fms.canalplus.fr:1935/live/canalplusclair_1500@42246
+ 
+#EXTINF:-1 ,France 5
+http://live.francetv.fr/simulcast/France_5/hls_v1/index.m3u8
+ 
+#EXTINF:-1 ,France 5
+http://se-2.se.france5-hls.live.numericable.tv/live/hls/france5/ipad.m3u8
+ 
+#EXTINF:-1 ,M6
+http://se-2.se.m6-hls.live.numericable.tv/live/hls/m6/ipad.m3u8
+ 
+#EXTINF:-1 ,M6
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8
+ 
+#EXTINF:-1 ,Arte
+http://se-2.se.arte-hls.live.numericable.tv/live/hls/arte/ipad.m3u8
+ 
+#EXTINF:-1 ,Arte
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+ 
+#EXTINF:-1 ,Arte
+http://94.224.226.10:8001/1:0:1:2208:44C:1:C00000:0:0:0
+ 
+#EXTINF:-1 ,D8
+http://se-2.se.direct8-hls.live.numericable.tv/live/hls/direct8/ipad.m3u8
+ 
+#EXTINF:-1 ,W9
+http://se-2.se.w9-hls.live.numericable.tv/live/hls/w9/ipad.m3u8
+ 
+#EXTINF:-1 ,W9
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/w9_hls_aes/w9_hls_aes_856.m3u8
+ 
+#EXTINF:-1 ,TMC
+http://se-2.se.tmc-hls.live.numericable.tv/live/hls/tmc/ipad.m3u8
+ 
+#EXTINF:-1 ,NT1
+http://se-2.se.nt1-hls.live.numericable.tv/live/hls/nt1/ipad.m3u8
+ 
+#EXTINF:-1 ,NRJ12
+http://se-2.se.nrj12-hls.live.numericable.tv/live/hls/nrj12/ipad.m3u8
+ 
+#EXTINF:-1 ,NRJ12
+rtsp://rtsp-out-b.live.tdf-cdn.com:554/2887_nrj_12_tv_nrj_174257.sdp
+ 
+#EXTINF:-1 ,NRJ12
+http://nrj-apple-live.adaptive.level3.net/apple/nrj/nrj/nrj12hi.m3u8
+ 
+#EXTINF:-1 ,Cherie25
+rtmp://nrjlivefs.fplive.net/nrjlive-live/cheriehd
+ 
+#EXTINF:-1 ,6Ter
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_defi
+nst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8
+ 
+#EXTINF:-1 ,TF6
+http://se-2.se.tf6-hls.live.numericable.tv/live/hls/tf6/ipad.m3u8
+ 
+#EXTINF:-1 ,RMC Decouverte
+http://chkg.tdf-cdn.com/5718/04.m3u8
+ 
+#EXTINF:-1 ,France 4
+http://live.francetv.fr/simulcast/France_4/hls_v1/index.m3u8
+ 
+#EXTINF:-1 ,France 4
+http://se-2.se.france4-hls.live.numericable.tv/live/hls/france4/ipad.m3u8
+ 
+#EXTINF:-1 ,D17
+http://82.135.224.134:80/udp/239.102.1.15:1234
+ 
+#EXTINF:-1 ,D17
+http://se-2.se.directstar-hls.live.numericable.tv/live/hls/directstar/ipad.m3u8
+ 
+#EXTINF:-1 ,Gulli
+http://82.135.224.134:80/udp/239.102.1.20:1234
+ 
+#EXTINF:-1 ,TV5 Monde: Amerique Latine
+http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
+ 
+#EXTINF:-1 ,L'Equipe TV
+http://chkg.tdf-cdn.com/5687/02.m3u8
+ 
+#EXTINF:-1 ,BFM TV
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+ 
+#EXTINF:-1 ,I-Tele
+rtmp://live-fms.canalplus.fr/live/itele_800@42248
+ 
+#EXTINF:-1 ,LCP
+http://se-2.se.bfmtv-hls.live.numericable.tv/live/hls/bfmtv/ipad.m3u8
+ 
+#EXTINF:-1 ,LCI
+rtmp://cp84002.live.edgefcs.net/live/eTF1-LCI-Flash-Int@15274
+ 
+#EXTINF:-1 ,France24
+http://tv.flux.france24.com/4684/02.m3u8
+ 
+#EXTINF:-1 ,France 0
+http://se-2.se.franceo-hls.live.numericable.tv/live/hls/franceo/ipad.m3u8
+ 
+#EXTINF:-1 ,France 0
+http://82.135.224.134:80/udp/239.102.1.10:1234
+ 
+#EXTINF:-1 ,France 0
+http://live.francetv.fr/simulcast/France_O/hls_v1/index.m3u8
+ 
+#EXTINF:-1 ,TVM Est parisien
+rtmp://rtmp.infomaniak.ch/livecast/cineplume
+ 
+#EXTINF:-1 ,TV Fil 78: A Voir
+#EXTINF:-1 Vitamine TV
+rtmp://rtmp.infomaniak.ch/livecast/vitatv
+ 
+#EXTINF:-1, I24 News
+mmsh://wm.live.tv-radio.com/bouygues/all/channel12.wmv?MSWMExt=.asf
+ 
+#EXTINF:-1 ,Grand Lille TV
+rtsp://str81.creacast.com/grandlilletv/high
+ 
+#EXTINF:-1 ,Yvelines Premiere
+http://rtmp.infomaniak.ch/livecast/yveline1/playlist.m3u8
+ 
+#EXTINF:-1 ,Mirabelle TV
+rtsp ://str81.creacast.com/mirabelletv/milieu
+ 
+#EXTINF:-1 ,Gulli
+http://82.135.224.134:80/udp/239.102.1.20:1234
+ 
+#EXTINF:-1 ,Disney Channel
+http://se-2.se.disneychannel-hls.live.numericable.tv/live/hls/disneychannel/ipad.m3u8
+ 
+#EXTINF:-1 ,Mangas
+http://dsam981q7uh6q.cloudfront.net/liveabs101/mangas.smil/playlist_b1296000manifest.f4m.
+m3u8
+ 
+#EXTINF:-1 ,Mangas
+http://82.135.224.134:80/udp/239.102.1.7:1234
+ 
+#EXTINF:-1 ,Game One
+http://82.135.224.134:80/udp/239.102.1.21:1234
+ 
+#EXTINF:-1 ,Game One
+http://se-2.se.gameone-hls.live.numericable.tv/live/hls/gameone/ipad.m3u8
+ 
+#EXTINF:-1 ,J-One
+http://se-2.se.jone-hls.live.numericable.tv/live/hls/jone/ipad.m3u8
+ 
+#EXTINF:-1 ,Boomerang
+http://se-2.se.boomerang-hls.live.numericable.tv/live/hls/boomerang/ipad.m3u8
+ 
+#EXTINF:-1 ,June
+http://se-2.se.june-hls.live.numericable.tv/live/hls/june/ipad.m3u8
+ 
+#EXTINF:-1,Boing
+http://boing-hls.live.numericable.tv/live/hls/boing/ipad.m3u8
+ 
+#EXTINF:-1, Zouzou TV
+http://ftviflivehdz-f.akamaihd.net/i/zouzous_live@88958/index_832_av-p.m3u8
+ 
+#EXTINF:-1 ,Comedie
+http://se-2.se.comedie-hls.live.numericable.tv/live/hls/comedie/ipad.m3u8
+ 
+#EXTINF:-1 ,Teva
+http://se-2.se.teva-hls.live.numericable.tv/live/hls/teva/ipad.m3u8
+ 
+#EXTINF:-1 ,Breizh
+http://se-2.se.tvbreizh-hls.live.numericable.tv/live/hls/tvbreizh/ipad.m3u8
+ 
+#EXTINF:-1 ,AB1
+http://se-2.se.ab1-hls.live.numericable.tv/live/hls/ab1/ipad.m3u8
+ 
+#EXTINF:-1 ,Serie Club
+http://se-2.se.serieclub-hls.live.numericable.tv/live/hls/serieclub/ipad.m3u8
+ 
+#EXTINF:-1 ,RTL9
+http://se-2.se.rtl9-hls.live.numericable.tv/live/hls/rtl9/ipad.m3u8
+ 
+#EXTINF:-1 ,RTL9
+http://82.135.224.134:80/udp/239.102.1.8:1234
+ 
+#EXTINF:-1 ,Action
+http://dsam981q7uh6q.cloudfront.net/liveabs101/action.smil/manifest.m3u8
+ 
+#EXTINF:-1 ,Action
+http://82.135.224.134:80/udp/239.102.1.2:1234
+ 
+#EXTINF:-1 ,Polar
+http://82.135.224.134:80/udp/239.102.1.3:1234
+ 
+#EXTINF:-1 ,FX
+http://82.135.224.134:80/udp/239.102.1.14:1234
+ 
+#EXTINF:-1 ,Ushuaia TV
+http://se-2.se.ushuaiatv-hls.live.numericable.tv/live/hls/ushuaiatv/ipadstream800ushuaiatv.m3u8
+ 
+#EXTINF:-1 ,Animaux
+http://109.87.139.16:1234/udp/238.0.0.86:1234
+ 
+#EXTINF:-1 ,Animaux
+http://82.135.224.134:80/udp/239.102.1.13:1234
+ 
+#EXTINF:-1 ,Encyclopédie
+http://82.135.224.134:80/udp/239.102.1.9:1234
+ 
+#EXTINF:-1 ,Escales
+http://82.135.224.134:80/udp/239.102.1.25:1234
+ 
+#EXTINF:-1 ,Histoire
+http://se-2.se.histoire-hls.live.numericable.tv/live/hls/histoire/ipad.m3u8
+ 
+#EXTINF:-1 ,Discovery
+http://se-2.se.discovery-hls.live.numericable.tv/live/hls/discovery/ipad.m3u8
+ 
+#EXTINF:-1 ,Toute l'Histoire
+http://dsam981q7uh6q.cloudfront.net/liveabs101/toutelhistoire.smil/playlist_b1296000manifest.f4m.m3u8
+ 
+#EXTINF:-1 ,Chasse et Pêche
+http://dsam981q7uh6q.cloudfront.net/liveabs101/chasseetpeche.smil/playlist_b1296000manifest.f4m.m3u8
+ 
+#EXTINF:-1 ,Chasse et Pêche
+http://109.87.139.16:1234/udp/238.0.0.149:1234
+ 
+#EXTINF:-1 ,ACi TV OM5 TV
+http://ec.playmedia.fr/om5-tv/live/playlist.m3u8
+ 
+#EXTINF:-1 ,Sénat  
+mms://vipmms9.yacast.net/senat_hemi_wm
+ 
+#EXTINF:-1 ,AIR TV
+rtmp://stream.air-tv.tv:1935/live/web2.stream
+ 
+#EXTINF:-1 ,Monaco Info
+rtmp://46.105.34.238/livepkgr/livestream3
+ 
+#EXTINF:-1 ,Téléplaisance
+mms://www.diffusepro.com/liveteleplaiz
+T
+#EXTINF:-1 ,élévision Libre
+http://modulix.org: 8000/libre.ogg
+ 
+#EXTINF:-1 ,TVSF
+mms://stream.tvsf.fr/live
+ 
+#EXTINF:-1 ,LabelleTV
+mms://www.labelletv.net/labelleTV
+ 
+#EXTINF:-1 ,ABS TV
+mms://WinMedia.act2000.net/abstv
+ 
+#EXTINF:-1 ,Euronews français
+http://hd1.lsops.net/live/euronews_fr_340/playlist.m3u8
+ 
+#EXTINF:-1 ,Clap TV
+mms://rr93.diffusepro.com/rr93
+ 
+#EXTINF:-1 ,Renault TV
+rtsp://rtv.fms6.visionip.tv/live/renault_tv-french- vivre-25f-16x9_3
+ 
+#EXTINF:-1 ,France 24 FR
+rtmp://stream2.france24.yacast.net/france24_live/fr/f24_livefr
+ 
+#EXTINF:-1 ,APTV Martinique
+mms://vipmms9.yacast.net/aptv_live03
+ 
+#EXTINF:-1 ,BFM Business
+mms://vipmms.yacast.net/bfm_bfmbiz
+ 
+#EXTINF:-1 ,Fashion One TV
+http://159.224.11.8:8888/udp/238.0.0.207:1234
+ 
+#EXTINF:-1 ,Gloubi
+http://teleclub.fr:9006/glb.ogv
+ 
+#EXTINF:-1 ,Cinefil
+http://teleclub.fr/cinefil.mp4
+ 
+#EXTINF:-1 ,Cinetoile
+http://teleclub.fr/cinetoile.mp4
+ 
+#EXTINF:-1 ,Cinq+
+http://teleclub.fr/cinqplus.mp4
+ 
+#EXTINF:-1 ,Gloubi
+http://teleclub.fr/gloubi.mp4
+ 
+#EXTINF:-1 ,Music Box
+http://teleclub.fr/musicbox.mp4
+ 
+#EXTINF:-1 ,Série H
+http://195.154.188.161/hls/hhh.m3u8
+ 
+#EXTINF:-1 ,Caméra Café
+http://195.154.188.161/hls/cameracafe.m3u8
+ 
+#EXTINF:-1 ,J'irai Dormir Chez Vous
+http://195.154.188.161/hls/antoine.m3u8
+ 
+#EXTINF:-1 ,TV Replay
+http://195.154.188.161/hls/tvreplay.m3u8
+ 
+#EXTINF:-1 ,Enquête Exclusive
+http://195.154.188.161/hls/ tvreplay.m3u8
+ 
+#EXTINF:-1 ,National Geographic
+http://195.154.188.161/hls/nationalgeo.m3u8
+ 
+#EXTINF:-1 ,Stargate SG1, SGA
+rtmp://5.196.11.157:1936/stargate/stargate
+ 
+#EXTINF:-1 ,Kaamelott
+http://195.154.188.161/hls/kaamelott.m3u8
+ 
+#EXTINF:-1 ,L 'Univers et session Mystères
+http://195.154.188.161/hls/univers.m3u8
+ 
+#EXTINF:-1 ,Histoire
+rtmp://5.196.11.157:1936/histoire/histoire
+ 
+#EXTINF:-1 ,Finance et Mondialisation:
+rtmp://5.196.11.157:1936/mondialisation/mondialisation
+ 
+#EXTINF:-1 ,Science
+http://195.154.188.161/hls/science.m3u8
+ 
+#EXTINF:-1 ,Dragonball Z
+http://62.210.76.216:8080/hls/dballgt.m3u8
+ 
+#EXTINF:-1 ,Southpark HD
+http://62.210.76.216:8080/hls/sphd.m3u8
+ 
+#EXTINF:-1 ,Aqua
+http://62.210.76.216:8080/hls/aqua.m3u8
+ 
+#EXTINF:-1 ,Aqua
+rtmp://62.210.76.216/hls/aqua
+ 
+#EXTINF:-1 ,Big Bang Theory
+rtmp://62.210.76.216/hls/bigbang
+ 
+#EXTINF:-1 ,Bobs Burgers
+rtmp://62.210.76.216/hls/bobsx
+ 
+#EXTINF:-1 ,Archer
+rtmp://62.210.76.216/hls/archerhd
+ 
+#EXTINF:-1 ,American Dad
+rtmp://62.210.76.216/hls/americanx
+ 
+#EXTINF:-1 ,King Of The Hill
+http://62.210.76.216:8080/hls/kinghillhd.m3u8
+ 
+#EXTINF:-1 ,King Of The Hill
+rtmp://62.210.76.216/hls/kinghillhd
+ 
+#EXTINF:-1 ,La Une
+http://rtmp.infomaniak.ch/livecast/laune/playlist.m3u8
+ 
+#EXTINF:-1 ,La Deux
+http://rtmp.infomaniak.ch/livecast/ladeux/playlist.m3u8
+ 
+#EXTINF:-1 ,La Trois
+http://rtmp.infomaniak.ch/livecast/latrois/playlist.m3u8
+ 
+#EXTINF:-1 ,Canal Savoir (Bas débit)
+mms://stream2.canal.qc.ca/enOndes_bas_debit
+ 
+#EXTINF:-1 ,Canal Savoir (Haut débit)
+mms ://stream2.canal.qc.ca/enOndes_haut_debit
+ 
+#EXTINF:-1 ,Sénat
+mms://vipmms9.yacast.net/ senat_hemi_wm
+ 
+#EXTINF:-1 ,La Tele
+rtsp://rtmp.infomaniak.ch/diffusion en direct/Latele
+ 
+#EXTINF:-1 ,Rouge TV
+http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+ 
+#EXTINF:-1 ,M6 Music Club  
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_club_hls_aes/m6_music_club_hls_aes_856.m3u8
+ 
+#EXTINF:-1 ,M6 Music Black
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_black_hls_aes/m6_music_black_hls_aes_856.m3u8
+ 
+#EXTINF:-1 ,MTV
+http://se-2.se.mtv-hls.live.numericable.tv/live/hls/mtv/ipad.m3u8
+ 
+#EXTINF:-1 ,MCM
+http://se-2.se.mcm-hls.live.numericable.tv/live/hls/mcm/ipad.m3u8
+ 
+#EXTINF:-1 ,TV Danse
+mms://stream01.gtk.hu/dancetv
+ 
+#EXTINF:-1 ,Soleil TV
+mms://soleiltv.impek.tv/soleiltv
+ 
+#EXTINF:-1 ,RKingTV
+mms://rkingtv.diffusepro.com/rkingtv
+ 
+#EXTINF:-1 ,Canal 3 Monde TV
+mms://91.197.165.4/bouygues/all/channel3.wmv
+ 
+#EXTINF:-1 ,2M Maroc
+mmsh://wm.live.tv-radio.com/bouygues/all/channel15.wmv?MSWMExt=.asf
+ 
+#EXTINF:-1 ,RTC Liege
+http://media.webtvlive.eu/rtc/smil:live.smil/playlist.m3u8
+ 
+#EXTINF:-1 ,CPAC
+http://brightcove03-f.akamaihd.net/cpac1fDVR13_01_800@141215
+ 
+#EXTINF:-1 ,Tele Russe
+http://109.87.226.252:8888/udp/238.0.0.189:1234
+ 
+#EXTINF:-1 ,1 +1
+http://109.87.226.252:8888/udp/238.0.0.191:1234
+ 
+#EXTINF:-1 ,KBS World
+http://159.224.11.8:8888/udp/238.0.0.200:1234
+ 
+#EXTINF:-1 ,TV Grece
+http://159.224.11.8:8888/udp/238.0.0.204:1234
+ 
+#EXTINF:-1 ,L'Equipe TV
+http://chkg.tdf-cdn.com/5687/02.m3u8
+ 
+#EXTINF:-1 ,L'Equipe TV
+http://213.205.104.131:1935/equipetv_live21/live21/playlist.m3u8
+ 
+#EXTINF:-1 ,Kombat Sport
+http://se-2.se.kombat-hls.live.numericable.tv/live/hls/kombat/ipad.m3u8
+ 
+#EXTINF:-1 ,Ma Chaine Sport
+http://se-2.se.mcs-hls.live.numericable.tv/live/hls/mcs/ipad.m3u8
+ 
+#EXTINF:-1 ,Ma Chaine Sport Extreme
+http://se-2.se.mcsextreme-hls.live.numericable.tv/live/hls/mcsextreme/ipad.m3u8
+ 
+#EXTINF:-1 ,Eurosport
+http://se-2.se.eurosport-hls.live.numericable.tv/live/hls/eurosport/ipad.m3u8
+ 
+#EXTINF:-1 ,Eurosport 2
+http://se-2.se.eurosport2-hls.live.numericable.tv/live/hls/eurosport2/ipad.m3u8
+ 
