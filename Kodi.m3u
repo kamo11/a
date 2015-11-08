@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1,TTV
+rtmp://144.76.154.14/live/ttv
+#EXTINF:-1,DISCOVERY ID
+rtmp://85.10.208.218/live/discoveryid
+#EXTINF:-1,ORANGE SPORT
+rtmp://51.254.45.34/live/orangesport
+#EXTINF:-1,ELEVEN
+rtmp://51.254.45.34/live/eleven
+#EXTINF:-1,11 SPORT
+rtmp://144.76.154.14/live/elevensport
+#EXTINF:-1,N SPORT
+rtmp://85.10.208.218/live/n2sport
+#EXTINF:-1,DISNEY CHANNEL
+rtmp://144.76.154.14/live/disneych
+#EXTINF:-1,EXTREME SPORTS
+rtmp://144.76.154.14/live/extremesports
+#EXTINF:-1,TVP HISTORIA
+rtmp://178.16.220.163/live/thistory
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+rtmp://51.254.45.34/live/nageo
+#EXTINF:-1,DISCOVERY XTRA
+rtmp://51.254.45.34/live/discoveryxtra
+#EXTINF:-1,EUROSPORT
+rtmp://85.10.208.218/live/eurosport
+#EXTINF:-1,EUROSPORT 2
+rtmp://51.254.45.34/live/eurosport2hd
+#EXTINF:-1,TVP1
+rtmp://85.10.208.218/live/jedynka1
+#EXTINF:-1,TVP2
+rtmp://178.16.220.163/live/Tvp2
+#EXTINF:-1,DOMO+
+rtmp://178.16.220.163/live/domo
+#EXTINF:-1,CANAL+
+rtmp://178.16.220.163/live/canalhd
+#EXTINF:-1,CANAL+ SPORT
+rtmp://178.16.220.163/live/canalsport
+#EXTINF:-1,TVP SERIALE
+rtmp://144.76.154.14/live/tvpseriale
+#EXTINF:-1,DISCOVERY
+rtmp://51.254.45.34/live/discoveryhd
+#EXTINF:-1,BBC BRIT
+rtmp://51.254.45.34/live/bbcBrit
+#EXTINF:-1,TVN
+rtmp://144.76.154.14/live/tvn
+#EXTINF:-1,TVN 24
+rtmp://144.76.154.14/live/tvn24
+#EXTINF:-1,TVN TURBO
+rtmp://144.76.154.14/live/tvnturbo
+#EXTINF:-1,TVN STYLE
+rtmp://144.76.154.14/live/tvnstyle
+#EXTINF:-1,BBC CEEBIES
+rtmp://51.254.45.34/live/bbcCee
+#EXTINF:-1,TLC
+rtmp://51.254.45.34/live/tlcpl
+#EXTINF:-1,TVP INFO
+rtmp://178.16.220.163/livetvpinfo
+#EXTINF:-1,AXN
+rtmp://85.10.208.218/live/axn
+#EXTINF:-1,HBO
+rtmp://51.254.45.34/live/hbohd
+#EXTINF:-1,CINEMAX
+rtmp://51.254.45.34/live/cinemaxhd
+#EXTINF:-1 group-title=”Hungary”,Alföld Tv
+rtmp://217.113.62.243:1935/live/live
+#EXTINF:-1 group-title=”Hungary”,Budapest rtmp
+rtmp://91.82.85.44:1935/liveios851739io/_definst_/bptv.sdp
+#EXTINF:-1 group-title=”Hungary”,Debrecen Tv
+rtmp://91.82.85.71:1935/live/_definst_/DTV
+#EXTINF:-1 group-title=”Hungary”,FIX hd
+rtmp://video.fixhd.tv/fix/hd.stream
+#EXTINF:-1 group-title=”Hungary”,Halom TV
+rtmp://stream.battanet.hu:1935/halom/tv
+#EXTINF:-1 group-title=”Hungary”,Hangulat TV-rtvstat.hu
+rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chhangulattv/2013/10/23/01a71dd6-306c-4de4-9d88-c3ccc76c770e
+#EXTINF:-1 group-title=”Hungary”,Konyha TV
+rtmp://91.82.85.44:1935/live/konyhatv
+#EXTINF:-1 group-title=”Hungary”,Light Channel TV
+rtmp://streamer1.streamhost.org:1935/salive/hungarian
+#EXTINF:-1 group-title=”Hungary”,M2 HD m3u8
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
+#EXTINF:-1 group-title=”Hungary”,M2 ungheria
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
+#EXTINF:-1 group-title=”Hungary”,Oroszlányi Tv
+rtmp://guestinfo.eu:1935/live/testulet
+#EXTINF:-1 group-title=”Hungary”,Tisza TV
+http://www.tiszatv.hu:443/tiszatv.f4v
+#EXTINF:-1 group-title=”Hungary”,Williems Tv
+rtmp://79.120.178.90:1935/williams/williamstv
+#EXTINF:-1 group-title=”Hungary”,xvmedia Tv
+rtmp://91.82.85.44:1935/live/xvmedia
+#EXTINF: 0,1 (Israel) 1HD
+http://62.90.90.56/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id=”Channel 10? tvg-name=”Channel 10? tvg-logo=”3470593.png”, (Israel) 10HD
+http://nana10live-lh.akamaihd.net/i/ch10news_0@93049/index_1_av-p.m3u8
+#EXTINF: 0,Channel 2 HD (Israel)
+http://62.219.24.234:1935/22475_LIVE_ch2.stream/22475_LIVE_ch2.stream/playlist.m3u8?wowzasessionid=1421070566
+#EXTINF: 0,Channel 2 Keshet (Israel)
+http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2064.m3u8
+#EXTINF: 0,Channel 2 Reshet (Israel)
+http://reshet207788-i.akamaihd.net/hls/live/207509/live/high.m3u8
+#EXTINF: 0,Channel 2 News HD (Israel)
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+#EXTINF: 0,Music 24HD (Israel)
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8
+#EXTINF: 0,kneset (Israel)
+mmsh://212.235.5.241/knessetlive?MSWMExt=.asf
+#EXTINF: 0,9 (Israel)(RUS)
+http://sw.gostreaming.tv:1935/live/smil:myStream.smil/playlist.m3u8
+#EXTINF: 0,Channel 20 (Israel)
+http://ynet-lh.akamaihd.net/i/ynet_1@123296/master.m3u8
+#EXTINF: 0,Channel 21 (Israel)
+http://80.244.172.14/ch21Live/ch21Live_med.m3u8
+#EXTINF: 0,Sport 5 HD (Israel)
+http://198.179.31.76/battlecam//bc_4238542/index.m3u8
+#EXTINF:-1,RROKUM TV
+rtmp://82.114.65.202/live//rrokumtv
+#EXTINF:-1,Rtk
+http://akamai127.tibo.tv/rtk/timeshift_rel-20.m3u8$OPT:http-user-agent=stagefright%2F1.0+%28Linux%3BAndroid+2.2%29
+#EXTINF:-1,TV ERA
+http://217.16.82.6:1935/zulu//era_2/simpletvmaclinkleri.m3u8
+#EXTINF:-1,tvjug
+rtmp://84.20.77.50/live//livestream2
+#EXTINF:-1,Vizion Plus
+rtmp://slive.vizionplus.tv:1935/live/livestream2
