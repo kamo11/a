@@ -1,0 +1,695 @@
+#EXTM3U
+#EXTINF:-1,SERVI TAROT
+http://87.106.244.74:1935/live/myStream_1/livestream.m3u8
+#EXTINF:-1,SERVI TAROT
+http://87.106.244.74:1935/live/myStream_2/livestream.m3u8
+#EXTINF:-1,SEVILLA FC
+http://gstudio_hls04-lh.akamaihd.net:80/i/hls04stream001_0@348222/index_700_av-b.m3u8
+#EXTINF:-1,SEVILLA FC
+http://gstudio_hls04-lh.akamaihd.net:80/i/hls04stream001_0@348222/index_700_av-p.m3u8
+#EXTINF:-1,SEVILLA FC
+http://gstudio_hls04-lh.akamaihd.net:80/i/hls04stream001_0@348222/master.m3u8
+#EXTINF:-1,SISTEMA TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net:80/casthls/127.m3u8
+#EXTINF:-1,SI TV
+http://hd.worldkast.com:1935/8436/8436/live.m3u8
+#EXTINF:-1,SMO TV
+http://199.217.118.90:1935/smotv/stream/live.m3u8
+#EXTINF:-1,SOLIDARIA TV
+http://188.165.135.22:1935/remararg/livestream/live.m3u8
+#EXTINF:-1,SULAVISION
+http://162.212.176.68:1935/sulavision/sulavision/live.m3u8
+#EXTINF:-1,SULAVISION
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1,SUPER PODER
+http://tv-tikilive-hls-live.hls.adaptive.level3.net:80/casthls/116.m3u8
+#EXTINF:-1,SUPER PODER
+http://tv-tikilive-hls-live.hls.adaptive.level3.net:80/hls2/116.m3u8
+#EXTINF:-1,TA TE TI
+http://ionlive1-lh.akamaihd.net:80/i/tateti_1@126174/index_724_av-b.m3u8
+#EXTINF:-1,TA TE TI
+http://ionlive1-lh.akamaihd.net:80/i/tateti_1@126174/master.m3u8
+#EXTINF:-1,TDC
+http://painel.serveron.com.br:1935/8166/8166/live.m3u8
+#EXTINF:-1,TELE AMIGA
+http://cdns840stu1010.multistream.net:80/teleamigalive/amlst:live/livestream.m3u8
+#EXTINF:-1,TELE AMIGA
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1,TELE AMIGA
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1,TELE ANTILLAS
+http://mek4.mekstream.com:1935/teleantillas/live3/livestream.m3u8
+#EXTINF:-1,TELE ANTILLAS
+http://mek4.mekstream.com:1935/teleantillas/teleantillas.smil/live.m3u8
+#EXTINF:-1,TELEANTIOQUIA
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1,TELEANTIOQUIA
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:-1,TELE ARAGUA
+http://edge.wms28.lorini.net:1935/telearagua/telearagua/live.m3u8
+#EXTINF:-1,TELE ARAGUA
+http://vpn58.hdtv.lorini.net:1935/telearagua/telearagua/live.m3u8
+#EXTINF:-1,TELECAFÉ HD
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:-1,TELECAFÉ HD
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:-1,TELECANAL
+http://movilstream.digitalproserver.com:1935/tcsc/tcscvivo/tcsc.smil/chunklist_b1248000.m3u8
+#EXTINF:-1,TELECANAL
+http://wow2.cl.digitalproserver.com:1935/tcsc/tcscvivo/tcsc.smil/chunklist_b1248000.m3u8
+#EXTINF:-1,TELECARIBE
+http://cdns840stu1010.multistream.net:80/telecaribelive/amlst:live/chunklist_b500000.m3u8
+#EXTINF:-1,TELECARIBE
+http://cdns840stu1010.multistream.net:80/telecaribelive/live-500/chunklist_b500000.m3u8
+#EXTINF:-1,TELECEIBA
+http://162.212.176.68:1935/teleceiba/teleceiba/live.m3u8
+#EXTINF:-1,TELECEIBA
+http://162.212.176.83:8080/teleceiba.m3u8
+#EXTINF:-1,TELECINCO
+http://mdsios1-lh.akamaihd.net:80/i/esmediaset_11@168471/index_0_av-b.m3u8
+#EXTINF:-1,TELECINCO
+http://mdsios1-lh.akamaihd.net:80/i/esmediaset_11@168471/index_0_av-p.m3u8
+#EXTINF:-1,TELECINCO
+http://mdsios2-lh.akamaihd.net:80/i/esmediaset_21@168473/index_0_av-b.m3u8
+#EXTINF:-1,TELECINCO
+http://mdsios2-lh.akamaihd.net:80/i/esmediaset_21@168473/index_0_av-p.m3u8
+#EXTINF:-1,TELEDUNAMIS
+http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/teledunamis/live.m3u8
+#EXTINF:-1,TELE FUTURO
+http://ss7.domint.net:1950/tf_str/futu/live.m3u8
+#EXTINF:-1,TELEMAX
+http://live-edge01.telecentro.net.ar:1935/live/tlx-360/livestream.m3u8
+#EXTINF:-1,TELEMAX
+http://live-edge01.telecentro.net.ar:1935/live/tlx-480/livestream.m3u8
+#EXTINF:-1,TELE MEDELLIN
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1,TELE MEDELLIN
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:-1,TELEMUNDO
+http://iphone-streaming.ustream.tv:80/uhls/20720323/streams/live/playlist.m3u8
+#EXTINF:-1,TELEMUNDO
+http://iphone-streaming.ustream.tv:80/ustreamVideo/20720323/streams/live/playlist.m3u8
+#EXTINF:-1,TELEMUNDO
+http://q.gs/9830047/telemundotodokodim3u8
+#EXTINF:-1,TELEMUNDO
+http://q.gs/9830047/unimastodokodim3u8
+#EXTINF:-1,TELEMUNDO HD
+http://104.200.159.74:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
+#EXTINF:-1,TELEMUNDO HD
+http://107.152.103.226:1935/app/telemundox1chivas_69s-channel/live.m3u8
+#EXTINF:-1,TELE MÚSICA
+http://186.155.200.118:1935/live/telemusica/livestream.m3u8
+#EXTINF:-1,TELE PROGRESO
+http://162.212.176.68:1935/teleprogreso/teleprogreso/live.m3u8
+#EXTINF:-1,TELE PROGRESO
+http://162.212.176.83:8080/teleprogreso.m3u8
+#EXTINF:-1,TELE SISTEMA
+http://162.212.176.68:1935/telesistema/telesistema/live.m3u8
+#EXTINF:-1,TELE SISTEMA
+http://162.212.176.83:8080/telesistema.stream.m3u8
+#EXTINF:-1,TELE SISTEMA
+http://mek4.mekstream.com:1935/telesistema/live2/livestream.m3u8
+#EXTINF:-1,TELE SISTEMA
+http://mek4.mekstream.com:1935/telesistema/telesistema.smil/live.m3u8
+#EXTINF:-1,TELESUR
+http://android.telesur.ultrabase.net:1935/mainrepeater/telesurLive/livestream.m3u8
+#EXTINF:-1,TELESUR
+http://cdn2.telesur.ultrabase.net:1935/livecf/telesurLive/livestream.m3u8
+#EXTINF:-1,TELESUR
+http://q.gs/9830047/telesurtodokodim3u8
+#EXTINF:-1,TELE UNIVERSO
+http://ss7.domint.net:1942/tu_str/universo/live.m3u8
+#EXTINF:-1,TELE UNO TV
+http://k3.usastreams.com:1935/tvuno1/tvuno1/live.m3u8
+#EXTINF:-1,TELE VID
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:-1,TELE VID
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:-1,TELE VIDA HD
+http://evo.eltelon.com:443/live/televida/livestream.m3u8
+#EXTINF:-1,TELE VIDA HD
+http://evo.eltelon.com:1935/live/televida/livestream.m3u8
+#EXTINF:-1,TELEVISA
+http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_518_av-p.m3u8
+#EXTINF:-1,TELEVISA
+http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_648_av-p.m3u8
+#EXTINF:-1,TELEVISA HD
+http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_1048_av-b.m3u8
+#EXTINF:-1,TELEVISA HD
+http://tvsawpdvr-lh.akamaihd.net:80/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1,TELEVITROLA
+http://186.155.200.118:1935/live/Televitrola/livestream.m3u8
+#EXTINF:-1,TELPIN HD
+http://201.219.100.30:1935/telpintv/ngrp:ttv.stream_all/live.m3u8
+#EXTINF:-1,TELPIN TV
+http://201.219.100.30:1935/telpintv/ttv.stream_240p/live.m3u8
+#EXTINF:-1,TELPIN TV
+http://201.219.100.30:1935/telpintv/ttv.stream_360p/live.m3u8
+#EXTINF:-1,TELPIN TV HD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/live.m3u8
+#EXTINF:-1,TEVEO MIAMI
+http://q.gs/9830047/tveomiamitodokodim3u8
+#EXTINF:-1,TIGO MUSIC
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1,TIGO MUSIC
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1,TIVA
+http://live-h1.frontlayer.net:1935/fl729845/live/livestream.m3u8
+#EXTINF:-1,TODO NOTICIAS
+http://200.42.92.142:1935/live/tnhd2/livestream.m3u8
+#EXTINF:-1,TODO NOTICIAS
+http://200.42.92.142:1935/live/tnmovil2/livestream.m3u8
+#EXTINF:-1,TODO NOTICIAS HD
+http://200.42.92.142:1935/live/tnhd1/livestream.m3u8
+#EXTINF:-1,TODO NOTICIAS SD
+http://200.42.92.142:1935/live/tnhd3/livestream.m3u8
+#EXTINF:-1,TODO NOTICIAS SD
+http://200.42.92.142:1935/live/tnmovil1/livestream.m3u8
+#EXTINF:-1,TRAVEL TV
+http://87.106.219.140:1935/live/myStream_2/livestream.m3u8
+#EXTINF:-1,TRENTY CHANNEL
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1,TRENTY CHANNEL
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1,TRT TV
+http://edge.wms28.lorini.net:1935/trttv/trttv/live.m3u8
+#EXTINF:-1,TRT TV
+http://vpn58.hdtv.lorini.net:1935/trttv/trttv/live.m3u8
+#EXTINF:-1,TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net:80/int/ngrp:tv3_web/livestream.m3u8
+#EXTINF:-1,TV3 24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net:80/int/ngrp:324_web/livestream.m3u8
+#EXTINF:-1,TV 4
+http://190.107.176.167:1935/live/tv4-television/livestream.m3u8
+#EXTINF:-1,TV 12
+http://162.212.176.68:1935/canal12/canal12/live.m3u8
+#EXTINF:-1,TV 12
+http://162.212.176.83:8080/canal12.stream.m3u8
+#EXTINF:-1,TV AGRO
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1,TV AGRO
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1,TV AZTECA HONDURAS
+http://162.212.176.68:1935/azteca/azteca/live.m3u8
+#EXTINF:-1,TV AZTECA HONDURAS
+http://aztecalive-lh.akamaihd.net:80/i/142kvpq0l_1@67741/index_1_av-p.m3u8
+#EXTINF:-1,TV AZTECA HONDURAS
+http://aztecalive-lh.akamaihd.net:80/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:-1,TVC
+http://162.212.176.68:1935/canal5/canal5/live.m3u8
+#EXTINF:-1,TVC
+http://162.212.176.83:8080/canal5.stream.m3u8
+#EXTINF:-1,TVC HD
+http://162.212.176.68:1935/tvchd/tvchd/live.m3u8
+#EXTINF:-1,TVC HD
+http://162.212.176.83:8080/tvchd.stream.m3u8
+#EXTINF:-1,TV CHILE
+http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1,TV CHILE
+http://edge-12-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1,TV CHILE
+http://edge-20-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1,TV CHILE
+http://edge-51-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1,TV CHILE
+http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1,TV GALICIA AMERICA
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
+#EXTINF:-1,TV GALICIA AMERICA
+http://media3.crtvg.es:1935/live/tvga/livestream.m3u8
+#EXTINF:-1,TV GALICIA AMERICA
+http://media3.crtvg.es:1935/live/tvga_2/livestream.m3u8
+#EXTINF:-1,TV GALICIA AMERICA
+http://media4.crtvg.es:1935/live/tvga/livestream.m3u8
+#EXTINF:-1,TV GALICIA EUROPA
+http://media1.crtvg.es:1935/live/tvge/livestream.m3u8
+#EXTINF:-1,TV GALICIA EUROPA
+http://media3.crtvg.es:1935/live/tvge/livestream.m3u8
+#EXTINF:-1,TV GALICIA EUROPA
+http://media3.crtvg.es:1935/live/tvge_2/livestream.m3u8
+#EXTINF:-1,TV GALICIA EUROPA
+http://media4.crtvg.es:1935/live/tvge/livestream.m3u8
+#EXTINF:-1,TV GRANADA 7
+http://cdns724ste1010.multistream.net:80/tgsietelive/amlst:tvgranada/chunklist_b750000.m3u8
+#EXTINF:-1,TV MANÁ
+http://195.22.19.183:1935/tvesp/tvesp3/live.m3u8
+#EXTINF:-1,TV MANÁ
+http://195.22.19.189:1935/tvarba/tvarba3/live.m3u8
+#EXTINF:-1,TV MANÁ
+http://195.22.19.189:1935/tvar/tvmanaar2/live.m3u8
+#EXTINF:-1,TV MÁS HD
+http://50.7.98.234:1935/rtv/videortv/live.m3u8
+#EXTINF:-1,TV MELILLA
+http://stream.tvmelilla.es:1935/tvmelilla/live/livestream.m3u8
+#EXTINF:-1,TV MEXIQUENSE
+http://fss28.streamhoster.com:1935/lv_tvmexiquense/broadcast1/live.m3u8
+#EXTINF:-1,TVN
+http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,TVN
+http://edge-12-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,TVN
+http://edge-20-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,TVN
+http://edge-51-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,TVN
+http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,TVN HD
+http://q.gs/9830047/tvnhdtodokodim3u8
+#EXTINF:-1,TVN HD
+http://tvn-vod.mdstrm.com:1935/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+#EXTINF:-1,TVN HD
+http://urtmpkal-f.akamaihd.net:80/i/19wqj1kgf_1@136614/index_1_av-b.m3u8
+#EXTINF:-1,TVN HD
+http://urtmpkal-f.akamaihd.net:80/i/19wqj1kgf_1@136614/index_1_av-p.m3u8
+#EXTINF:-1,TVN HD
+http://urtmpkal-f.akamaihd.net:80/i/19wqj1kgf_1@136614/master.m3u8
+#EXTINF:-1,TV NUEVO TIEMPO
+http://stream.novotempo.com:1935/tv/tvnuevotiempo.smil/live.m3u8
+#EXTINF:-1,TV NUEVO TIEMPO
+http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
+#EXTINF:-1,TV PERÚ
+http://iphone-streaming.ustream.tv:80/uhls/17419715/streams/live/playlist.m3u8
+#EXTINF:-1,TV PERÚ
+http://iphone-streaming.ustream.tv:80/ustreamVideo/17419715/streams/live/playlist.m3u8
+#EXTINF:-1,TV POLANCO
+http://186.155.200.118:1935/live/ColombiasuMusica/livestream.m3u8
+#EXTINF:-1,TV PUBLICA HD
+http://live-edge01.telecentro.net.ar:1935/live/tvp.smil/chunklist_b1264000_sleng.m3u8
+#EXTINF:-1,TV RED
+http://69.164.193.177:1935/live/myStream/livestream.m3u8
+#EXTINF:-1,TV RIO NEGRINA
+http://184.172.26.212:1935/live/live15/livestream.m3u8
+#EXTINF:-1,TV SATELITAL
+http://181.198.10.23:1935/live/mystream/livestream.m3u8
+#EXTINF:-1,TV VERDADE
+http://ocatv.mcgi.me:1935/public/247_es/live.m3u8
+#EXTINF:-1,UCV SATELITAL
+http://wowzacontrol.net:1935/8050/8050/live.m3u8
+#EXTINF:-1,UNIVISION HD
+http://104.200.159.74:1935/app/turbomax-hds-channel/playlist.m3u8
+#EXTINF:-1,UNIVISION HD
+http://107.152.103.226:1935/app/turbomax-hds-channel/live.m3u8
+#EXTINF:-1,VALE TV
+http://edge.wms28.lorini.net:1935/valetv/valetv/live.m3u8
+#EXTINF:-1,VALE TV
+http://vpn58.hdtv.lorini.net:1935/valetv/valetv/live.m3u8
+#EXTINF:-1,VALLE TV
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/livestream.m3u8
+#EXTINF:-1,VEGATEVE
+http://ss7.domint.net:2084/vtv_str/canal8/live.m3u8
+#EXTINF:-1,VIVA NICARAGUA
+http://iphone-streaming.ustream.tv:80/uhls/13870671/streams/live/playlist.m3u8
+#EXTINF:-1,VIVA NICARAGUA
+http://iphone-streaming.ustream.tv:80/ustreamVideo/13870671/streams/live/playlist.m3u8
+#EXTINF:-1,VIVRA TV
+http://iphone-streaming.ustream.tv:80/uhls/10002020/streams/live/playlist.m3u8
+#EXTINF:-1,VIVRA TV
+http://iphone-streaming.ustream.tv:80/ustreamVideo/10002020/streams/live/playlist.m3u8
+#EXTINF:-1,VMAS TV
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+#EXTINF:-1,VMAS TV
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+#EXTINF:-1,XTREME TV
+http://iphone-streaming.ustream.tv:80/uhls/20555006/streams/live/playlist.m3u8
+#EXTINF:-1,XTREME TV
+http://iphone-streaming.ustream.tv:80/ustreamVideo/20555006/streams/live/playlist.m3u8
+#EXTINF:-1,ITÁLIA
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+#EXTINF:-1,ALTO ADIGE TV
+http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+#EXTINF:-1,ANTENNA 3
+http://live.cdn.streamago.tv:1935/streamagoedge/34674/28723/livestream.m3u8
+#EXTINF:-1,ANTENNA 3
+http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/34674/28723/livestream.m3u8
+#EXTINF:-1,AUTO MOTO TV
+http://178.22.187.142:1935/automoto/myStream2/live.m3u8
+#EXTINF:-1,AUTO MOTO TV
+http://178.22.187.142:1935/automoto/myStream3/live.m3u8
+#EXTINF:-1,BRESCIA LIVE TV
+http://fms.shared.streamshow.it:1935/brescialivetv/brescialivetv/live.m3u8
+#EXTINF:-1,BRESCIA LIVE TV
+http://wms.shared.streamshow.it:1935/brescialivetv/brescialivetv/live.m3u8
+#EXTINF:-1,CAMERA DEI DEPUTATI
+http://live.cdn.streamago.tv:1935/streamagoedge/1919/812/livestream.m3u8
+#EXTINF:-1,CAMERA DEI DEPUTATI
+http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/1919/812/live.m3u8
+#EXTINF:-1,CANALE 2
+http://wms.iptv.4wardstream.net:1935/canale2iptv/canale2iptv/live.m3u8
+#EXTINF:-1,CANALE 7
+http://fms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1,CANALE 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1,CANALE 21
+http://live.Kronopress.com:1935/canale21_live/canale21/livestream.m3u8
+#EXTINF:-1,CANALE 21
+http://live.streamcaster.net:1935/canale21_live/canale21/livestream.m3u8
+#EXTINF:-1,CANALE 21
+http://video2.Kronopress.com:1935/canale21_live/canale21/livestream.m3u8
+#EXTINF:-1,CANALE 21
+http://vs2.streamcaster.net:1935/canale21_live/canale21/livestream.m3u8
+#EXTINF:-1,CANALE DIECI
+http://176.31.226.78:1935/ch10live/stream1.sdp/livestream.m3u8
+#EXTINF:-1,CANALE DIECI
+http://176.31.226.78:1935/ch10live/stream2.sdp/livestream.m3u8
+#EXTINF:-1,CASERTA SPORT TV
+http://52.10.37.231:1984/itstream2073/itstream2073/live.m3u8
+#EXTINF:-1,CIELO
+http://skyianywhere2-i.akamaihd.net:80/hls/live/216865/cielo/playlist.m3u8
+#EXTINF:-1,CIELO
+http://skyianywhere2-i.akamaihd.net:80/hls/live/216865/cielo/stream1/streamPlaylist.m3u8
+#EXTINF:-1,CIELO
+http://skyianywhere2-i.akamaihd.net:80/hls/live/216865/cielo/stream2/streamPlaylist.m3u8
+#EXTINF:-1,E TV MARCHE
+http://live.Kronopress.com:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:-1,E TV MARCHE
+http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:-1,E TV MARCHE
+http://video2.Kronopress.com:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:-1,E TV MARCHE
+http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/19-live.m3u8
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/ipad_it.m3u8
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/iphone_it.m3u8
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/19-live.m3u8
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/ipad_it.m3u8
+#EXTINF:-1,EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/iphone_it.m3u8
+#EXTINF:-1,FASHION CHANNEL
+http://live.cdn.streamago.tv:1935/streamagoedge/32350/26446/livestream.m3u8
+#EXTINF:-1,FASHION CHANNEL
+http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/32350/26446/live.m3u8
+#EXTINF:-1,FOR MUSIC TV
+http://194.116.73.146.1935/quartaretetv1/formusicweb/live.m3u8
+#EXTINF:-1,FOR MUSIC TV
+http://wowza1.top-ix.org:1935/quartaretetv1/formusicweb/live.m3u8
+#EXTINF:-1,INFO TRENTINO
+http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
+#EXTINF:-1,JO TV
+http://fms.shared.streamshow.it:1935/jotv/jotv/livestream.m3u8
+#EXTINF:-1,JO TV
+http://wms.shared.streamshow.it:1935/jotv/jotv/livestream.m3u8
+#EXTINF:-1,LA 3
+http://h3ghdchan101-i.akamaihd.net:80/hls/live/217153/Virtual_Channel101/master.m3u8
+#EXTINF:-1,LA 6
+http://live.youiptv.ch:1935/La6/LA6.stream/livestream.m3u8
+#EXTINF:-1,M2O TV
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1,M2O TV
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,ORLER CHANNEL
+http://77.92.76.135:1935/orler/livestream/live.m3u8
+#EXTINF:-1,OTTO 8 FM TV
+http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8
+#EXTINF:-1,OTTO 8 FM TV
+http://live.youiptv.ch:1935/8FM/ngrp:8FM_all/livestream.m3u8
+#EXTINF:-1,PADRE PIO TV
+http://teleradiopadrepio.it.flash.glb.ipercast.net:1935/teleradiopadrepio.it-live/live/livestream.m3u8
+#EXTINF:-1,QUARTARETE
+http://194.116.73.146:1935/quartaretetv/quartareteweb/live.m3u8
+#EXTINF:-1,QUARTARETE
+http://wowza1.top-ix.org:1935/quartaretetv/quartareteweb/live.m3u8
+#EXTINF:-1,QUARTARETE BLU
+http://194.116.73.146:1935/quartaretetv2/quartaretebluweb/live.m3u8
+#EXTINF:-1,QUARTARETE BLU
+http://wowza1.top-ix.org:1935/quartaretetv2/quartaretebluweb/live.m3u8
+#EXTINF:-1,RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:-1,RADIO 105 TV
+http://wow01.105.net:1935/live/105Test1/livestream.m3u8
+#EXTINF:-1,RADIO ITALIA TV
+http://cwedge.cdcache.net:1935/cwedge/rilive/livestream.m3u8
+#EXTINF:-1,RADIO MONTE CARLO TV
+http://fms.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:-1,RADIO MONTE CARLO TV
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:-1,RADIO NORBA TV
+http://85.17.80.132:1935/radionorbatv/norbatv_source.stream/live.m3u8
+#EXTINF:-1,RADIO VIRGIN TV
+http://fms.105.net:1935/live/virgin1/livestream.m3u8
+#EXTINF:-1,RADIO VIRGIN TV
+http://wow01.105.net:1935/live/virgin1/livestream.m3u8
+#EXTINF:-1,RAI 1
+http://origin2.live.web.tv.streamprovider.net:80/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
+#EXTINF:-1,RAI 2
+http://origin2.live.web.tv.streamprovider.net:80/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
+#EXTINF:-1,RAI 3
+http://origin2.live.web.tv.streamprovider.net:80/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
+#EXTINF:-1,RAI 5
+http://stream12.rai.it:80/live/rai5_android.smil/chunklist_b400000.m3u8
+#EXTINF:-1,RAI 5
+http://stream12.rai.it:80/live/rai5_android.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,RAI 5
+http://stream12.rai.it:80/live/rai5.smil/chunklist_b400000.m3u8
+#EXTINF:-1,RAI 5
+http://stream12.rai.it:80/live/rai5.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,RAI MOVIE
+http://stream10.rai.it:80/italy/raimovie.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,RAI MOVIE
+http://stream10.rai.it:80/italy/raimovie.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,RAI MOVIE
+http://stream10.rai.it:80/italy/raimovie.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,RAI NEWS 24
+http://live.cdn.streamago.tv:1935/streamagoedge/1917/810/livestream.m3u8
+#EXTINF:-1,RAI NEWS 24
+http://origin2.live.web.tv.streamprovider.net:80/streams/121612976e4808528d2ba7edc446887c/index.m3u8
+#EXTINF:-1,RAI NEWS 24
+http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/1917/810/live.m3u8
+#EXTINF:-1,RAI NEWS 24
+http://stream8.rai.it:80/live/rainews_android.smil/chunklist_b1400000.m3u8
+#EXTINF:-1,RAI NEWS 24
+http://stream8.rai.it:80/live/rainews.smil/chunklist_b1400000.m3u8
+#EXTINF:-1,RAI YOYO
+http://stream10.rai.it:80/italy/raiyoyo.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,RAI YOYO
+http://stream10.rai.it:80/italy/raiyoyo.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,RAI YOYO
+http://stream10.rai.it:80/italy/raiyoyo.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,RETE 8 SPORT
+http://live.cdn.streamago.tv:1935/streamagoedge/39648/36567/livestream.m3u8
+#EXTINF:-1,RETE 8 SPORT
+http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/39648/36567/live.m3u8
+#EXTINF:-1,RETE 55
+http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8
+#EXTINF:-1,RETE 55
+http://live.youiptv.ch:1935/Rete55/R55.stream_source/livestream.m3u8
+#EXTINF:-1,RETE BIELLA TV
+http://194.116.73.146:1935/megawebtv/streaming/live.m3u8
+#EXTINF:-1,RTL 102.5
+http://origin-rtl-radio-stream.4mecloud.it:80/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
+#EXTINF:-1,RTL 102.5
+http://origin-rtl-radio-stream.4mecloud.it:80/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+#EXTINF:-1,RTL 102.5
+http://origin-rtl-radio-stream.4mecloud.it:80/live-video/radiovisione/radiovisione/playlist.m3u8
+#EXTINF:-1,RTV SAN MARINO
+http://194.116.72.186:1935/webtv_live4/0QBXFQ2L0I5P/livestream.m3u8
+#EXTINF:-1,SARDEGNA UNO
+http://94.32.101.11:1935/sardegna1/live1.stream/livestream.m3u8
+#EXTINF:-1,SARDEGNA UNO
+http://94.32.101.13:1935/sardegna1/live1.stream/livestream.m3u8
+#EXTINF:-1,SARDEGNA UNO
+http://94.32.101.14:1935/sardegna1/live1.stream/livestream.m3u8
+#EXTINF:-1,SARDEGNA UNO
+http://94.32.101.16:1935/sardegna1/live1.stream/livestream.m3u8
+#EXTINF:-1,SARDEGNA UNO
+http://94.32.101.17:1935/sardegna1/live1.stream/livestream.m3u8
+#EXTINF:-1,SARDEGNA UNO
+http://94.32.101.18:1935/sardegna1/live1.stream/livestream.m3u8
+#EXTINF:-1,SARONNO TV
+http://msh0193.stream.seeweb.it:1935/live/stream00.sdp/livestream.m3u8
+#EXTINF:-1,SENATO TV
+http://flash3.glb.ipercast.net:1935/webtv.senato.it-live/stream1/livestream.m3u8
+#EXTINF:-1,SENATO TV
+http://flash3.glb.ipercast.net:1935/webtv.senato.it-live/stream2/livestream.m3u8
+#EXTINF:-1,SENATO TV
+http://live.cdn.streamago.tv:1935/streamagoedge/1920/813/livestream.m3u8
+#EXTINF:-1,SENATO TV
+http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/1920/813/live.m3u8
+#EXTINF:-1,SKY SPORT F1
+http://185.63.255.26:80/live/max15a5/playlist.m3u8
+#EXTINF:-1,SKY TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1,SKY TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream3/streamPlaylist.m3u8
+#EXTINF:-1,SKY TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream4/streamPlaylist.m3u8
+#EXTINF:-1,SKY TG24 HD
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream5/streamPlaylist.m3u8
+#EXTINF:-1,SKY TG24 HD
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8
+#EXTINF:-1,SKY TG24 HD
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream7/streamPlaylist.m3u8
+#EXTINF:-1,SPORT ITALIA
+http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8
+#EXTINF:-1,SPORT ITALIA
+http://spi.hystream.com:1935/spilive/spistream_480/livestream.m3u8
+#EXTINF:-1,SÜDTIROL TV
+http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
+#EXTINF:-1,SUPER TV
+http://fms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1,SUPER TV
+http://fms.shared.streamshow.it:1935/supertv/supertv_mobile/live.m3u8
+#EXTINF:-1,SUPER TV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1,SUPER TV
+http://wms.shared.streamshow.it:1935/supertv/supertv_mobile/live.m3u8
+#EXTINF:-1,TELE 8
+http://live.Kronopress.com:1935/tele8_live/tele8/livestream.m3u8
+#EXTINF:-1,TELE 8
+http://live.streamcaster.net:1935/tele8_live/tele8/livestream.m3u8
+#EXTINF:-1,TELE 8
+http://video2.Kronopress.com:1935/tele8_live/tele8/livestream.m3u8
+#EXTINF:-1,TELE 8
+http://vs2.streamcaster.net:1935/tele8_live/tele8/livestream.m3u8
+#EXTINF:-1,TELE ARENA
+http://wma07.fluidstream.net:1935/TeleArena/livestream/live.m3u8
+#EXTINF:-1,TELE BOARIO
+http://91.121.222.160:1935/teleboariotb/teleboario.sdp/live.m3u8
+#EXTINF:-1,TELE DIOGENE
+http://fms.shared.streamshow.it:1935/telediogene/telediogene/live.m3u8
+#EXTINF:-1,TELE DIOGENE
+http://wms.shared.streamshow.it:1935/telediogene/telediogene/live.m3u8
+#EXTINF:-1,TELEDUCATO
+http://fms.shared.streamshow.it:1935/teleducatopc/teleducatopc/live.m3u8
+#EXTINF:-1,TELEDUCATO
+http://fms.shared.streamshow.it:1935/teleducatopr/teleducatopr/live.m3u8
+#EXTINF:-1,TELEDUCATO
+http://wms.shared.streamshow.it:1935/teleducatopc/teleducatopc/live.m3u8
+#EXTINF:-1,TELEDUCATO
+http://wms.shared.streamshow.it:1935/teleducatopr/teleducatopr/live.m3u8
+#EXTINF:-1,TELEMARKET
+http://fms.shared.streamshow.it:1935/telemarket/telemarket/live.m3u8
+#EXTINF:-1,TELEMARKET
+http://wms.shared.streamshow.it:1935/telemarket/telemarket/live.m3u8
+#EXTINF:-1,TELE MILANO
+http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
+#EXTINF:-1,TELE MONTE NEVE
+http://fms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:-1,TELE MONTE NEVE
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:-1,TELE MONTE NEVE 3
+http://fms.shared.streamshow.it:1935/telemonteneve3/telemonteneve3/live.m3u8
+#EXTINF:-1,TELE MONTE NEVE 3
+http://wms.shared.streamshow.it:1935/telemonteneve3/telemonteneve3/live.m3u8
+#EXTINF:-1,TELE OLTRE
+http://94.198.100.199:1935/np_teleoltre/channel1_np_teleoltre/live.m3u8
+#EXTINF:-1,TELE PAVIA
+http://fms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1,TELE PAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1,TELERAMA
+http://iphone-streaming.ustream.tv:80/uhls/20845752/streams/live/playlist.m3u8
+#EXTINF:-1,TELERAMA
+http://iphone-streaming.ustream.tv:80/ustreamVideo/20845752/streams/live/playlist.m3u8
+#EXTINF:-1,TELEROMAGNA
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagna.stream_240p/live.m3u8
+#EXTINF:-1,TELEROMAGNA
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagna.stream_360p/live.m3u8
+#EXTINF:-1,TELEROMAGNA LIFE STYLE
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaLifeStyle.stream_240p/live.m3u8
+#EXTINF:-1,TELEROMAGNA LIFE STYLE
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaLifeStyle.stream_360p/live.m3u8
+#EXTINF:-1,TELEROMAGNA MIA
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaMia.stream_240p/live.m3u8
+#EXTINF:-1,TELEROMAGNA MIA
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaMia.stream_360p/live.m3u8
+#EXTINF:-1,TELEROMAGNA NEWS
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaNews.stream_240p/live.m3u8
+#EXTINF:-1,TELEROMAGNA NEWS
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaNews.stream_360p/live.m3u8
+#EXTINF:-1,TELEROMAGNA SPORT
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaSport.stream_240p/live.m3u8
+#EXTINF:-1,TELEROMAGNA SPORT
+http://livecloud.teleromagna.it:1935/TeleromagnaLive/teleromagnaSport.stream_360p/live.m3u8
+#EXTINF:-1,TELESTAR
+http://193.34.109.10:8090/
+#EXTINF:-1,TELE STUDIO MODENA
+http://fms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
+#EXTINF:-1,TELE STUDIO MODENA
+http://wms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
+#EXTINF:-1,TELE TICINO
+http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
+#EXTINF:-1,TELE UNICA
+http://flash1.ipercast.net:1935/teleunica.tv-live/livestream1/playlist.m3u8
+#EXTINF:-1,TELE UNICA
+http://flash2.ipercast.net:1935/teleunica.tv-live/livestream1/playlist.m3u8
+#EXTINF:-1,TELE UNICA
+http://flash3.ipercast.net:1935/teleunica.tv-live/livestream1/playlist.m3u8
+#EXTINF:-1,TELE UNICA
+http://flash4.ipercast.net:1935/teleunica.tv-live/livestream1/playlist.m3u8
+#EXTINF:-1,TICINO NEWS TV
+http://37.187.171.97:1935/teleticino/vpstream/live.m3u8
+#EXTINF:-1,TG COM 24
+http://hlslive.msf.ticdn.it:80/hls/CH08/Live_Layer1.m3u8
+#EXTINF:-1,TG COM 24
+http://hlslive.msf.ticdn.it:80/hls/CH08/Live_Layer2.m3u8
+#EXTINF:-1,TG COM 24
+http://hlslive.msf.ticdn.it:80/hls/CH08/Live_Layer3.m3u8
+#EXTINF:-1,TG NORBA 24
+http://85.17.80.132:1935/tgnorba_24/tgnorba_24_source.stream/live.m3u8
+#EXTINF:-1,TRC
+http://streamer.fss.tiscali.com:1935/telco/VC3TCRHI9LNP/live.m3u8
+#EXTINF:-1,TRENTINO TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+#EXTINF:-1,TRM H24
+http://flash.streamingmedia.it:1935/TRM/livestream/live.m3u8
+#EXTINF:-1,TSN
+http://fms.shared.streamshow.it:1935/tsn/tsn/live.m3u8
+#EXTINF:-1,TSN
+http://wms.shared.streamshow.it:1935/tsn/tsn/live.m3u8
+#EXTINF:-1,TSN 2
+http://fms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+#EXTINF:-1,TSN 2
+http://fms.shared.streamshow.it:1935/tsn2/tsn2_mobile/live.m3u8
+#EXTINF:-1,TSN 2
+http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+#EXTINF:-1,TSN 2
+http://wms.shared.streamshow.it:1935/tsn2/tsn2_mobile/live.m3u8
+#EXTINF:-1,TV 7 DIGITAL
+http://52.10.37.231:1949/itstream65/itstream65/live.m3u8
+#EXTINF:-1,TV 2000
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+#EXTINF:-1,TV LUNA
+http://live.Kronopress.com:1935/test_live/teleluna/livestream.m3u8
+#EXTINF:-1,TV LUNA
+http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8
+#EXTINF:-1,TV LUNA
+http://video2.Kronopress.com:1935/test_live/teleluna/livestream.m3u8
+#EXTINF:-1,TV LUNA
+http://vs2.streamcaster.net:1935/test_live/teleluna/livestream.m3u8
+#EXTINF:-1,TVRS
+http://fms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1,TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1,UNINETTUNO UNIVERSITY TV
+http://stream6.rai.it:80/live/uninettuno.smil/chunklist_b900000.m3u8
+#EXTINF:-1,UNINETTUNO UNIVERSITY TV
+http://stream6.rai.it:80/live/uninettuno.smil/chunklist-b900000.m3u8
+#EXTINF:-1,UNINETTUNO UNIVERSITY TV
+http://stream6.rai.it:80/live/uninettuno.smil/chunklist.b900000.m3u8
+#EXTINF:-1,VERA TV
+http://fms.shared.streamshow.it:1935/veratv/veratv/live.m3u8
+#EXTINF:-1,VERA TV
+http://wms.shared.streamshow.it:1935/veratv/veratv/live.m3u8
+#EXTINF:-1,VIDEO BRESCIA
+http://fms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:-1,VIDEO BRESCIA
+http://fms.shared.streamshow.it:1935/videobrescia/videobrescia_mobile/live.m3u8
+#EXTINF:-1,VIDEO BRESCIA
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:-1,VIDEO BRESCIA
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia_mobile/live.m3u8
+#EXTINF:-1,VIDEOLINA
+http://178.33.229.111:1935/live/Videolina/livestream.m3u8
+#EXTINF:-1,VISUAL RADIO
+http://fms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+#EXTINF:-1,VISUAL RADIO
+http://fms.shared.streamshow.it:1935/visualradio/visualradio_mobile/live.m3u8
+#EXTINF:-1,VISUAL RADIO
+http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+#EXTINF:-1,VISUAL RADIO
+http://wms.shared.streamshow.it:1935/visualradio/visualradio_mobile/live.m3u8
