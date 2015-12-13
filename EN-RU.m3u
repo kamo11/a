@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1,National Geographic
+http://2.60.15.118:1234/udp/225.54.23.54:5000
+#EXTINF:-1,History
+http://2.60.15.118:1234/udp/225.54.23.52:5000
+#EXTINF:-1,travel + adventure
+http://2.60.15.118:1234/udp/225.54.23.53:5000
+#EXTINF:-1,Nat geo wild
+http://2.60.15.118:1234/udp/225.54.23.66:5000
+#EXTINF:-1,Englich Club
+http://2.60.15.118:1234/udp/225.54.23.72:5000
+#EXTINF:-1,Viasat Nature
+http://2.60.15.118:1234/udp/225.54.23.80:5000
+#EXTINF:-1,nickjr.
+http://2.60.15.118:1234/udp/225.54.23.101:5000
+#EXTINF:-1,Baby tv
+http://2.60.15.118:1234/udp/225.54.23.102:5000
+#EXTINF:-1,VH-1
+http://2.60.15.118:1234/udp/225.54.23.120:5000
+#EXTINF:-1,MTV dance
+http://2.60.15.118:1234/udp/225.54.23.124:5000
+#EXTINF:-1,MTV hits
+http://2.60.15.118:1234/udp/225.54.23.125:5000
+#EXTINF:-1,MTV rocks
+http://2.60.15.118:1234/udp/225.54.23.126:5000
+#EXTINF:-1,1 classic
+http://2.60.15.118:1234/udp/225.54.23.127:5000
+#EXTINF:-1,Eurosport 1
+http://2.60.15.118:1234/udp/225.54.23.130:5000
+#EXTINF:-1,Eurosport 2
+http://2.60.15.118:1234/udp/225.54.23.131:5000
+#EXTINF:-1,Viasat sport
+http://2.60.15.118:1234/udp/225.54.23.135:5000
+#EXTINF:-1,Eurosport news
+http://2.60.15.118:1234/udp/225.54.23.144:5000
+#EXTINF:-1,National Geographic HD
+http://2.60.15.118:1234/udp/225.54.41.6:5000
+#EXTINF:-1,Nat Geo Wild HD
+http://2.60.15.118:1234/udp/225.54.41.7:5000
+#EXTINF:-1,travel + adventure (HD)
+http://2.60.15.118:1234/udp/225.54.41.8:5000
+#EXTINF:-1,Mezzo live HD
+http://2.60.15.118:1234/udp/225.54.41.11:5000
+#EXTINF:-1,Fashion One (HD)
+http://2.60.15.118:1234/udp/225.54.41.12:5000
+#EXTINF:-1,Outdoor (HD)
+http://2.60.15.118:1234/udp/225.54.41.13:5000
+#EXTINF:-1,Nickelodeon HD
+http://2.60.15.118:1234/udp/225.54.41.15:5000
+#EXTINF:-1,Discovery HD
+http://2.60.15.118:1234/udp/225.54.41.18:5000
+#EXTINF:-1,Animal Planet HD
+http://2.60.15.118:1234/udp/225.54.41.19:5000
+#EXTINF:-1,RT (HD)
+http://2.60.15.118:1234/udp/225.54.41.25:5000
+#EXTINF:-1,History (HD)
+http://2.60.15.118:1234/udp/225.54.41.26:5000
+#EXTINF:-1,TLC (HD)
+http://2.60.15.118:1234/udp/225.54.41.36:5000
