@@ -1,0 +1,61 @@
+#EXTM3U
+ 
+#EXTINF:-1,Kurdistan TV
+rtmp://84.244.187.12/live/livestream
+ 
+#EXTINF:-1, Kurdistan TV HD TEST
+http://63.237.48.23/ios/KURDISTAN_TV/KURDISTAN_TV.m3u8
+ 
+#EXTINF:-1,Kurdsat News
+http://68.168.105.117/live/autoHLS/livestream/livestream.m3u8
+ 
+#EXTINF:-1,Kurdsat TV HD
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/kurdsat/ls_satlink/b_528.m3u8
+ 
+#EXTINF:-1,Waar TV HD
+rtmp://avenuewtv.srfms.com:2219/live//livestream
+ 
+#EXTINF:-1,Vin TV
+http://karwan.tv/live/vin-tv/vin-tv.php
+ 
+#EXTINF:-1,NRT 2
+rtmp://nrttv.iptv-playoutcenter.de:1935/nrt2/_definst_/mp4:nrt2.stream_1
+ 
+#EXTINF:-1,NRT News HD
+http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/jwplayer.m3u8
+ 
+#EXTINF:-1, NRT TEST
+rtmp://prxy-wza-02.iptv-playoutcenter.de/nrt1/_definst_ playpath=mp4:nrt1.stream_1 swfUrl=http://nrttv.iptv-playoutcenter.de/player/jwplayer.flash.swf pageUrl=http://nrttv.iptv-playoutcenter.de/player/nrt1.html live=true timeout=15
+ 
+#EXTINF:-1,TRT Kurdi
+http://sol.trtcdn.com/tv/trt6/smil:trt6.smil/playlist.m3u8?freeiptvlinks.com?freeiptvlinks.com
+ 
+#EXTINF:-1, TRT Kurdi HD
+rtmp://si.trtcdn.com/tv/trt6tr playpath=mp4:trt6tr_1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.trt.net.tr/trtkurdi/TVT.htm live=true timeout=15
+ 
+#EXTINF:-1, Rudaw
+http://livestreaming.itworkscdn.net/rudawlive/rudawtv_240p/playlist.m3u8
+ 
+#EXTINF:-1, Gali Kurdistan
+http://64.150.177.45:1935/live/_definst_/mp4:myStream/playlist.m3u8
+ 
+#EXTINF:-1, Kurdmax HD
+http://live.kurdstream.net:1935/liveTrans/myStream_720p/playlist.m3u8
+ 
+#EXTINF:-1, Kurdmax
+http://live.kurdstream.net:1935/liveTrans/myStream_360p/playlist.m3u8
+ 
+#EXTINF:-1, KNN
+rtsp://46.163.68.239:1935/live/livestream
+ 
+#EXTINF:-1, Zagros
+rtmp://64.150.188.83:1935/live/ playpath=livestream2 swfUrl=http://zagrostv.com/stream/player-viral.swf pageUrl=http://zagrostv.com/Default.aspx?page=stream live=true timeout=15
+ 
+#EXTINF:-1, Gem Kurd
+rtmp://gem-kurd-tv.karwan.tv:1935/live/ playpath=gemtv-gemtv-kurd-live-25f-4x3-SD swfUrl=http://onyxvids.stream.onyxservers.com/[[IMPORT]]/karwan.tv/player_file/flowplayer/player.cluster-3.2.9.swf pageUrl=http://karwan.tv/gem-kurd-tv.html live=true timeout=15
+ 
+#EXTINF:-1, Med Muzik
+http://178.33.61.33:1936/medmuzik/muzikakurdi/playlist.m3u8
+ 
+#EXTINF:-1, Dunya TV
+http://kurehdlivesp-lh.akamaihd.net/i/kure_Dunya_SP_1@153284/master.m3u8?hdnea=st=1433953115~exp=1573953115~acl=/*~hmac=d39aa6ddba5fc38160a08a9365c6d8fd8b251c4189813aea5d4e9b7386e4f565
