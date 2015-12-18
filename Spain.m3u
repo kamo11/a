@@ -1,0 +1,223 @@
+#EXTM3U
+#EXTINF:0, MEGAVISION
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, ANTENA LATINA
+http://strs2.cvm1.com:8081/live/2506.stream/playlist.m3u8
+#EXTINF:0, TV AZTECA
+http://strs2.cvm1.com:8081/live/2404.stream/playlist.m3u8
+#EXTINF:0, ANTENA LATINA
+http://208.86.20.109:8081/live/2506.stream/playlist.m3u8
+#EXTINF:0, TV AZTECA
+http://208.86.20.109:8081/live/2404.stream/playlist.m3u8
+#EXTINF:0, TELE ANTILLAS
+http://strs2.cvm1.com:8081/live/2123.stream/playlist.m3u8
+#EXTINF:0, LVM
+http://strs2.cvm1.com:8081/live/2108.stream/playlist.m3u8
+#EXTINF:0, CORAL
+http://strs2.cvm1.com:8081/live/2102.stream/playlist.m3u8
+#EXTINF:0, TELE ANTILLAS
+http://strs2.cvm1.com:8081/live/2101.stream/playlist.m3u8
+#EXTINF:0, TELE SISTEMA
+http://strs2.cvm1.com:8081/live/2100.stream/playlist.m3u8
+#EXTINF:0, TELE ANTILLAS
+http://208.86.20.109:8081/live/2123.stream/playlist.m3u8
+#EXTINF:0, LVM
+http://208.86.20.109:8081/live/2108.stream/playlist.m3u8
+#EXTINF:0, CORAL
+http://208.86.20.109:8081/live/2102.stream/playlist.m3u8
+#EXTINF:0, TELE ANTILLAS
+http://208.86.20.109:8081/live/2101.stream/playlist.m3u8
+#EXTINF:0, TELE SISTEMA
+http://208.86.20.109:8081/live/2100.stream/playlist.m3u8
+#EXTINF:0, UNIVISION 23
+http://209.126.99.175:8081/live/univimiam/playlist.m3u8
+#EXTINF:0, GLOBOVISION TV
+http://edge.wms28.lorini.net:1935/globovisiontv/globovisiontv/live.m3u8
+#EXTINF:0, ZOO MOO
+http://104.131.117.246:8081/chuy/76/1301-ZooMoo/playlist.m3u8
+#EXTINF:0, DISNEY XD
+http://104.236.124.24:1382/disneyxd/playlist.m3u8
+#EXTINF:0, DISCOVERY KIDS
+http://45.55.81.38:1382/discoverykids/playlist.m3u8
+#EXTINF:0, TELEMUNDO
+http://104.236.200.163:1382/300815/wkaq/playlist.m3u8
+#EXTINF:0, UNIVISION PR
+http://104.236.200.163:1382/300815/wlii/playlist.m3u8
+#EXTINF:0, MUNDO FAX
+http://104.236.200.163:1382/300815/wjpx/playlist.m3u8
+#EXTINF:0, AV
+http://strs2.cvm1.com:8081/live/2405.stream/playlist.m3u8
+#EXTINF:0, CDN SPORTS MAX
+http://strs2.cvm1.com:8081/live/2514.stream/playlist.m3u8
+#EXTINF:0, CDN
+http://strs2.cvm1.com:8081/live/2511.stream/playlist.m3u8
+#EXTINF:0, CANAL 25
+http://strs2.cvm1.com:8081/live/2507.stream/playlist.m3u8
+#EXTINF:0, NEXXO
+http://strs2.cvm1.com:8081/live/2505.stream/playlist.m3u8
+#EXTINF:0, NOTICIAS 16
+http://strs2.cvm1.com:8081/live/2503.stream/playlist.m3u8
+#EXTINF:0, CANAL 4
+http://strs2.cvm1.com:8081/live/2502.stream/playlist.m3u8
+#EXTINF:0, TRA DIGITAL
+http://strs2.cvm1.com:8081/live/2501.stream/playlist.m3u8
+#EXTINF:0, ANTENA LATINA
+http://strs2.cvm1.com:8081/live/2500.stream/playlist.m3u8
+#EXTINF:0, V ME
+http://strs2.cvm1.com:8081/live/2410.stream/playlist.m3u8
+#EXTINF:0, TELEXITOS
+http://strs2.cvm1.com:8081/live/2407.stream/playlist.m3u8
+#EXTINF:0, TELEMUNDO
+http://strs2.cvm1.com:8081/live/2406.stream/playlist.m3u8
+#EXTINF:0, UNIMÁS
+http://strs2.cvm1.com:8081/live/2401.stream/playlist.m3u8
+#EXTINF:0, UNIVISION 41
+http://strs2.cvm1.com:8081/live/2400.stream/playlist.m3u8
+#EXTINF:0, AV
+http://208.86.20.109:8081/live/2405.stream/playlist.m3u8
+#EXTINF:0, CDN SPORTS MAX
+http://208.86.20.109:8081/live/2514.stream/playlist.m3u8
+#EXTINF:0, CDN
+http://208.86.20.109:8081/live/2511.stream/playlist.m3u8
+#EXTINF:0, CANAL 25
+http://208.86.20.109:8081/live/2507.stream/playlist.m3u8
+#EXTINF:0, NEXXO
+http://208.86.20.109:8081/live/2505.stream/playlist.m3u8
+#EXTINF:0, NOTICIAS 16
+http://208.86.20.109:8081/live/2503.stream/playlist.m3u8
+#EXTINF:0, CANAL 4
+http://208.86.20.109:8081/live/2502.stream/playlist.m3u8
+#EXTINF:0, TRA DIGITAL
+http://208.86.20.109:8081/live/2501.stream/playlist.m3u8
+#EXTINF:0, ANTENA LATINA
+http://208.86.20.109:8081/live/2500.stream/playlist.m3u8
+#EXTINF:0, V ME
+http://208.86.20.109:8081/live/2410.stream/playlist.m3u8
+#EXTINF:0, TELEXITOS
+http://208.86.20.109:8081/live/2407.stream/playlist.m3u8
+#EXTINF:0, TELEMUNDO
+http://208.86.20.109:8081/live/2406.stream/playlist.m3u8
+#EXTINF:0, UNIMÁS
+http://208.86.20.109:8081/live/2401.stream/playlist.m3u8
+#EXTINF:0, UNIVISION
+http://208.86.20.109:8081/live/2400.stream/playlist.m3u8
+#EXTINF:0, MUNDO MAX
+http://video-cdn.streamup.com:80/app/ana69s-channel/live.m3u8
+#EXTINF:0, MÉXICO TRAVEL CHANNEL
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+#EXTINF:0, MÉXICO TRAVEL CHANNEL
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/chunklist_b750000.m3u8
+#EXTINF:0, CANAL TRO
+http://cdns724ste1010.multistream.net:80/canaltro2live/amlst:live/livestream.m3u8
+#EXTINF:0, BEIN SPORTS Ñ
+http://185.63.255.101:80/live/max37/playlist.m3u8
+#EXTINF:0, TV 5 MONDE AMÉRIQUE LATINE
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+#EXTINF:0, CANAL 5
+http://v1.streaminglatinoamerica.com:1935/canal5/canal5/live.m3u8
+#EXTINF:0, PDVSA TV
+http://cast.streamingconnect.tv:1935/pdvsatvweb/pdvsatvweb/live.m3u8
+#EXTINF:0, CANAL U TV
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, ONDA AZUL
+http://dsn6jqegjeixj.cloudfront.net:80/ondaazul-live/video/livestream.m3u8
+#EXTINF:0, CANAL 4 HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
+#EXTINF:0, TELEMADRID
+http://telemadrid-live.hls.adaptive.level3.net:80/hls-live/telemadrid-telemadrid/_definst_/live/stream1.m3u8
+#EXTINF:0, NAVARRA TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:0, COMARCAL TV
+http://iphone-streaming.ustream.tv:80/uhls/17652616/streams/live/playlist.m3u8
+#EXTINF:0, ONDALUZ SIERRA
+http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
+#EXTINF:0, CEUTA TV
+http://teledifusion.tv:1935/anguloceuta/anguloceuta/live.m3u8
+#EXTINF:0, CONDAVISION
+http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
+#EXTINF:0, MÍRAME TV
+http://cast.streamingconnect.tv:1935/2015mirame/2015mirame/live.m3u8
+#EXTINF:0, EWTN
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
+#EXTINF:0, EWTN
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-4/900.mp4/livestream.m3u8
+#EXTINF:0, ESPERANZA TV
+http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8
+#EXTINF:0, ALCANCE TV
+http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
+#EXTINF:0, ALMAVISION
+http://cdn3.iviplanet.com:1935/Almavision/almavision1/live.m3u8
+#EXTINF:0, DXTV
+http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
+#EXTINF:0, TELE FUTURO
+http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0, LANCELOT TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:0, MEGA
+http://q.gs:80/9830047/todokodineox?live.m3u8
+#EXTINF:0, WIN SPORTS
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0003/tu1_manifest.m3u8
+#EXTINF:0, WIN SPORTS
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
+#EXTINF:0, RTS
+http://d2rcb4pdmqg3cg.cloudfront.net:80/liverts/liverts.smil/chunklist_b899152.m3u8
+#EXTINF:0, RT ESPAÑOL HD
+http://rt-lh.akamaihd.net:80/i/ch_02@325606/index_720p_av-p.m3u8
+#EXTINF:0, TYC SPORTS HD
+http://live.vodgc.com:1935/kLive/0_a5h483eu_all.smil/stream.m3u8
+#EXTINF:0, UFC NETWORK
+http://q.gs:80/9830047/todokodiufclatino?live.m3u8
+#EXTINF:0, ANTENA 3
+http://q.gs:80/9830047/antena3todokodim3u8
+#EXTINF:0, EDGE
+http://q.gs:80/9830047/todokodi12?live.m3u8
+#EXTINF:0,P MUNDO MAX
+http://streamup.global.ssl.fastly.net:80/app/ana69s-channel/live.m3u8
+#EXTINF:0,REMIUM ESPANHOL: AZTECA CINEMA
+http://q.gs:80/9830047/todokodi10?live.m3u8
+#EXTINF:0, RED ADVENIR
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/livestream.m3u8
+#EXTINF:0, RED ADVENIR
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/livestream.m3u8
+#EXTINF:0, EBENEZER TV
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
+#EXTINF:0, BEIN SPORTS EN ESPAÑOL
+http://q.gs:80/9830047/todokodi3?live.m3u8
+#EXTINF:0, TYC SPORTS HD
+http://q.gs:80/9830047/todokodi4?live.m3u8
+#EXTINF:0, TOONCAST
+http://q.gs:80/9830047/todokodi9?live.m3u8
+#EXTINF:0, DISCOVERY KIDS
+http://q.gs:80/9830047/todokodi8?live.m3u8
+#EXTINF:0, DISNEY XD
+http://q.gs:80/9830047/todokodi7?live.m3u8
+#EXTINF:0, CARTOON NETWORK
+http://q.gs:80/9830047/todokodi6?live.m3u8
+#EXTINF:0, NICK HD
+http://q.gs:80/9830047/todokodi5?live.m3u8
+#EXTINF:0, UNICABLE
+http://q.gs:80/9830047/todokodi14?live.m3u8
+#EXTINF:0, PAKA PAKA
+http://lsdencuentrohls-lh.akamaihd.net:80/i/PKPKHLS_1@198010/index_1_av-p.m3u8
+#EXTINF:0, CANAL CAPITAL
+http://q.gs:80/9830047/canalcapitalltodokodi?live.m3u8
+#EXTINF:0, CANAL TRO
+http://cdns840stu1010.multistream.net:80/canaltro2live/amlst:live/livestream.m3u8
+#EXTINF:0, CANAL ONCE
+http://edge.wms28.lorini.net:1935/canalonce/canalonce/live.m3u8
+#EXTINF:0, TELE CURAÇAO
+http://cdn3.iviplanet.com:1935/Telecuracao/myStream.sdp/live.m3u8
+#EXTINF:0, SOL TV
+http://live.soltvperu.com:1935/soltv/soltv/livestream.m3u8
+#EXTINF:0, HUESCA TV
+rtmp://streaming2.radiohuesca.com:1935/live/huescatv?livestream.m3u8
+#EXTINF:0, ONDA LATINA TV
+http://ondalatina_tv-lh.akamaihd.net:80/i/OndaLatinaTv_1@42007/master.m3u8
+#EXTINF:0, ONDA LATINA TV
+http://ondalatina_tv-lh.akamaihd.net:80/i/OndaLatinaTv_1@42007/index_600_av-p.m3u8
+#EXTINF:0, TELECARIBE
+http://cdns840stu1010.multistream.net:80/telecaribelive/amlst:live/chunklist_b750000.m3u8
+#EXTINF:0, GENTEVÉ
+http://cdns840stu1010.multistream.net:80/genteve.c29.svlive/live-500/chunklist_b750000.m3u8
+#EXTINF:0, TELECAFÉ
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
