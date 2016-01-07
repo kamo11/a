@@ -1,29 +1,31 @@
 #EXTM3U
-#EXTINF:-1,3SAT
+#EXTINF‬:-1, 3sat
 http://217.20.164.196:8080/3sat/index.m3u8
-#EXTINF:-1,ARD
+#EXTINF:-1, ard
 http://217.20.164.196:8080/ard/index.m3u8
-#EXTINF:-1,RBB
+#EXTINF:-1, rbb
 http://217.20.164.196:8080/rbb/index.m3u8
-#EXTINF:-1,KIKA
+#EXTINF:-1, kika
 http://217.20.164.196:8080/kika/index.m3u8
-#EXTINF:-1,ZDF
+#EXTINF:-1, zdf
 http://217.20.164.196:8080/zdf/index.m3u8
-#EXTINF:-1,VOX
+#EXTINF:-1, vox
 http://217.20.164.196:8080/vox/index.m3u8
-#EXTINF:-1,SAT1
+#EXTINF:-1, sat1
 http://217.20.164.196:8080/sat1/index.m3u8
-#EXTINF:-1,RTL
+#EXTINF:-1, rtl
 http://217.20.164.196:8080/rtl/index.m3u8
-#EXTINF:-1,N-TV
+#EXTINF:-1, n-tv
 http://217.20.164.196:8080/n-tv/index.m3u8
-#EXTINF:-1,Eurosport
+#EXTINF:-1, eurosport
 http://217.20.164.196:8080/eurosport/index.m3u8
-#EXTINF:-1,Euronews
+#EXTINF:-1, euronews
 http://217.20.164.196:8080/euronews/index.m3u8
-#EXTINF:-1,MDR
+#EXTINF:-1, mdr
 http://217.20.164.196:8080/mdr/index.m3u8
-#EXTINF:-1,NDR
+#EXTINF:-1, ndr
 http://217.20.164.196:8080/ndr/index.m3u8
-#EXTINF:-1,SWR
+#EXTINF:-1, swr
 http://217.20.164.196:8080/swr/index.m3u8
+#EXTINF:-1, zdf
+http://217.20.164.196:8080/zdf/index.m3u8
