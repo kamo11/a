@@ -1,0 +1,62 @@
+#EXTM3U
+#EXTINF:0,Agro TV
+rtmp://agrotvlive1.srfms.com:3021/live/livestream
+#EXTINF:0,BG DNES
+http://80.72.95.40:8088
+#EXTINF:0,BNP TV
+http://bnptv.info:10801
+#EXTINF:0,BNT World
+rtmp://193.43.26.198:1935/live/bntsat
+#EXTINF:0,bTV
+http://46.10.150.111/ios/btvbglive/playlist.m3u8
+#EXTINF:0,bTV
+http://185.13.236.197:4080/udp/224.0.0.110:1234
+#EXTINF:0,Bulgaria On Air
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:0,Bulgaria24
+rtmp://79.134.32.145:1935/static/BG24
+#EXTINF:0,Cherno More
+http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
+#EXTINF:0,Delta TV
+#EXTINF:0,Discovery Ch.(EN)
+http://185.13.236.197:4080/udp/224.0.0.110:1241
+#EXTINF:0,eTV
+http://195.24.89.20:4010
+#EXTINF:0,eTV HD
+http://195.24.89.20:8888
+#EXTINF:0,Film Plus – Sport Plus
+http://185.13.236.197:4080/udp/224.0.0.110:1237
+#EXTINF:0,Hobby TV
+http://185.13.236.197:4080/udp/224.0.0.110:1239
+#EXTINF:0,htv
+rtmp://stream2.htv.bg:1935/securestreaming/sd.sdp
+#EXTINF:0,Kanal 6
+http://84.54.139.86:91
+#EXTINF:0,Kanal6
+http://84.54.139.86:91/
+#EXTINF:0,Nova
+http://185.13.236.197:4080/udp/224.0.0.110:1235
+#EXTINF:0,Planeta TV
+http://185.13.236.197:4080/udp/224.0.0.110:1236
+#EXTINF:0,POTV
+rtmp://31.13.218.108/live/mpegts.stream
+#EXTINF:0,ROMA TV
+http://185.46.161.3/hls/sd.m3u8
+#EXTINF:0,The Voice
+http://185.13.236.197:4080/udp/224.0.0.110:1240
+#EXTINF:0,Tiankov Popfolk
+http://31.13.223.103:1935/tiankov/tiankov-popfolk.stream/playlist.m3u8
+#EXTINF:0,TV Mix
+http://109.160.31.20:1234
+#EXTINF:0,TV Rodopi
+http://213.145.114.95:8080/
+#EXTINF:0,TV Stara Zagora
+http://95.87.0.78:8080/tvstz.m3u8
+#EXTINF:0,TV Vratza
+http://77.76.140.249:4022/udp/1
+#EXTINF:0,TV7
+http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/tv7live.m3u8
+#EXTINF:0,TVart
+rtmp://80.72.95.9:1935/live/tvart
+#EXTINF:0,vvv
+rtmp://vvv.bg:1935/live/vvv.flv
