@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1,Discovery channel
+http://92.127.195.68:1234/udp/225.54.23.59:5000
+#EXTINF:-1,Discovery channel
+http://92.127.226.217:1234/udp/225.54.23.59:5000
+#EXTINF:-1,Discovery channel
+http://92.127.194.90:1234/udp/225.54.23.59:5000
+#EXTINF:-1,Discovery channel
+http://92.127.226.12:1234/udp/225.54.23.59:5000
+#EXTINF:-1,Discovery Channel HD
+http://31.128.129.171:81/udp/239.1.11.1:1234
+#EXTINF:-1,Discovery Channel
+http://78.137.52.47:81/udp/239.255.250.130:1234
+#EXTINF:-1,Discovery Science
+http://31.128.143.27:8000/udp/239.1.11.2:1234
+#EXTINF:-1,Discovery World
+http://37.112.114.6:81/udp/238.2.1.158:1234
+#EXTINF:-1,Discovery
+http://109.74.164.73:81/udp/239.255.0.40:1234
+#EXTINF:-1,Discovery
+http://109.74.162.184:81/udp/239.255.0.40:1234
+#EXTINF:-1,Discovery
+http://5.43.143.144:81/udp/239.255.0.40:1234
+#EXTINF:-1,Discovery Channel
+http://31.180.134.207:81/udp/224.1.1.2:6000
+#EXTINF:-1,Discovery Channel
+http://94.233.110.215:81/udp/224.1.1.2:6000
+#EXTINF:-1,Discovery Channel
+http://94.233.33.4:81/udp/224.1.1.2:6000
+#EXTINF:-1,DISCOVERY SCIENCE
+http://151.249.221.97:7781/udp/224.200.246.48:3527
+#EXTINF:-1,Investigation Discovery
+http://37.195.107.177:81/udp/239.1.2.8:1234
+#EXTINF:-1,Investigation Discovery
+http://37.195.23.153:81/udp/239.1.2.8:1234
+#EXTINF:-1,Discovery Channel
+http://94.241.202.44:55555/udp/233.99.61.202:5000
+#EXTINF:-1,Investigation Discovery
+http://37.193.56.117:81/udp/239.1.2.8:1234
+#EXTINF:-1,Discovery Channel
+http://95.67.191.39:81/udp/233.99.61.202:5000
+#EXTINF:-1,DISCOVERY CHANNEL
+http://212.19.8.204:81/udp/239.191.254.34:13343
+#EXTINF:-1,Investigation Discovery
+http://5.128.251.106:81/udp/239.1.2.8:1234
+#EXTINF:-1,Investigation Discovery
+http://178.49.57.240:81/udp/239.1.2.8:1234
+#EXTINF:-1,Discovery channel
+http://176.51.32.1:1234/udp/225.54.23.59:5000
+#EXTINF:-1,Discovery channel
+http://92.127.227.201:1234/udp/225.54.23.59:5000
