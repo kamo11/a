@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/nalia-2-tv.png” aspect-ratio=”1,85:1″ , NRT 2
+#EXTSIZE:Small
+http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/chunklist_w1757825996.m3u8
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/nalia-tv.png” audio-track=”Kurdisk” aspect-ratio=”1,85:1″ , NRT 1
+#EXTSIZE:Small
+http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/chunklist_w76649285.m3u8
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/nalia-tv.png” , NRT HD ny
+http://195.12.170.150:8000/play/KR-NRTHD
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/vin-tv.png” , Vin TV
+#EXTSIZE:Small
+http://95.170.203.140:1213/hls/vinlive.m3u8
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/korek-tv.png” aspect-ratio=”1,85:1″ , KOREK-TV
+#EXTSIZE:Small
+http://sat.010e.net:8000/live/milad/milad/1232.m3u8
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/korek-tv.png” , KOREK ny
+http://195.12.170.150:8000/play/KR-KorekTV
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/kanal4.png” , KANAL4
+http://198.100.158.231:1935/kanal12/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/kurdmax-tv.png” , KURDMAX
+http://live.kurdstream.net:1935/liveTrans/myStream_360p/playlist.m3u8
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/waar-tv.png” , WAAR
+http://198.100.158.231:1935/kanal2/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/rudaw.png” , RUDAW
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/kurdistan24-tv.png” , K24 ny
+http://195.12.170.150:8000/play/KR-K24HD
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/speda-tv.png” , SPEDE
+rtmp://198.143.185.178:1935/live//speda
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/knn-tv.png” , KNN
+http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://www.diyarinsesi.org/images/news/trt-6-gitti-trt-kurdi-geldi-65376.jpg” , TRT KURDI
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/kurdistan-tv.png” , Kurdistan TV
+http://sat.010e.net:8000/live/milad/milad/296.ts
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/gem-kurd-tv.png” , GEM KURD
+http://63.237.48.23/ios/GEM_KURD/GEM_KURD.m3u8
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://vivahiba.com/media/article/images/www.jpg.800x500_q85.jpg” aspect-ratio=”1,85:1″ , KURD MAX PEPULE
+#EXTSIZE:Small
+http://sat.010e.net:8000/live/milad/milad/765.ts
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/kurdsat-tv.png” , KURDSAT HD
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/kurdsat/ls_satlink/b_528.m3u8
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/kurdsat-news-tv.png” , KURDSAT NEWS
+#EXTINF:0,AR: Kurd Bugün TV
+http://ipsatpro.com:8000/live/argentina/argentina/1240.ts
+#EXTINF:0,AR: Kurd Haber Türk
+http://ipsatpro.com:8000/live/argentina/argentina/1232.ts
+#EXTINF:0,AR: Kurd max TV
+http://ipsatpro.com:8000/live/argentina/argentina/1242.ts
+#EXTINF:0,AR: Kurd Med Muzîk Tv
+http://ipsatpro.com:8000/live/argentina/argentina/1230.ts
+#EXTINF:0,AR: Kurd Med Nûçe Tv
+http://ipsatpro.com:8000/live/argentina/argentina/1226.ts
+#EXTINF:0,AR: Kurd Newroz Tv
+http://ipsatpro.com:8000/live/argentina/argentina/1233.ts
+#EXTINF:0,AR: Kurd NRT TV
+http://ipsatpro.com:8000/live/argentina/argentina/1237.ts
+#EXTINF:0,AR: Kurd NRT2 TV
+http://ipsatpro.com:8000/live/argentina/argentina/1238.ts
+#EXTINF:0,AR: Kurd Ronahi Tv
+http://ipsatpro.com:8000/live/argentina/argentina/1229.ts
+#EXTINF:0,AR: Kurd sat News TV
+http://ipsatpro.com:8000/live/argentina/argentina/1235.ts
+#EXTINF:0,AR: Kurd sat TV
+http://ipsatpro.com:8000/live/argentina/argentina/1236.ts
+#EXTINF:0,AR: Kurd Stêrk Tv
+http://ipsatpro.com:8000/live/argentina/argentina/1227.ts
+#EXTINF:0,AR: Kurd tv10
+http://ipsatpro.com:8000/live/argentina/argentina/1241.ts
+#EXTINF:0,AR: Kurd Yol Tv
+http://ipsatpro.com:8000/live/argentina/argentina/1239.ts
+#EXTINF:0,AR: Kurd Zarok Tv
+http://ipsatpro.com:8000/live/argentina/argentina/1231.ts
+#EXTINF:0,AR: Kurd Çira Tv
+http://ipsatpro.com:8000/live/argentina/argentina/1234.ts
+#EXTINF:0,AR: Kurd İMC TV
+http://ipsatpro.com:8000/live/argentina/argentina/1228.ts
+#EXTINF:0,AR: Kurdistan24 TV
+http://ipsatpro.com:8000/live/argentina/argentina/1243.ts
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/rega-tv.png” , REGA ny
+http://195.12.170.150:8000/play/KR-RegaTv
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/geli-kurdistan-tv.png” , GK ny
+http://195.12.170.150:8000/play/KR-GaliKurdistan
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/kurdsat-news-tv.png” , KurdsatNEWS ny
+http://195.12.170.150:8000/play/KR-KurdsatNewsHD
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/net-tv.png” , NET TV KURD
+http://sat.010e.net:8000/live/milad/milad/1651.ts
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/net-tv.png” , Net TV ny
+http://195.12.170.150:8000/play/KR-NetTV
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/sterk-tv.png” , sterk TV ny
+http://195.12.170.150:8000/play/KR-STERKTV
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/kurdsat-tv.png” , KURDSAT HD ny
+http://195.12.170.150:8000/play/KR-KurdsatTVHD
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/kurdmax-tv.png” , KURDMAX HD ny
+http://195.12.170.150:8000/play/KR-KurdMaxTVHD
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/knn-tv.png” , KNN ny
+http://195.12.170.150:8000/play/KR-KNNTV
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://karwan.tv/images/tvlogo/zagros-tv.png” , ZAGROS ny
+http://sat.010e.net:8000/live/milad/milad/1224.ts
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://www.bestanuce1.com/tv/images/ronahitv.jpg” aspect-ratio=”1,85:1″ , RONAHI TV
+#EXTSIZE:Small
+http://camerta.com:8000/live/boutique/boutique/1870.ts
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://kirkuknow.com/english/wp-content/uploads/2011/07/Kirkuk-Channel-Logo.jpg” aspect-ratio=”1,85:1″ , Kirkuk-TV
+#EXTSIZE:Small
+http://sat.010e.net:8000/live/milad/milad/1645.ts
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://www.xebat.com/ciratv.jpg” aspect-ratio=”1,85:1″ , CIRA TV
+#EXTSIZE:Small
+http://camerta.com:8000/live/boutique/boutique/1618.ts
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://kurtce.tvfrekansi.com/wp-content/uploads/2014/12/azadi.png” aspect-ratio=”1,85:1″ , Azadi-TV
+#EXTSIZE:Small
+http://sat.010e.net:8000/live/milad/milad/1253.ts
+#EXTINF:-1 channelId=”-1″ tvg-logo=”https://upload.wikimedia.org/wikipedia/tr/a/a1/Newroz_tv.jpg” aspect-ratio=”1,85:1″ , Nerowz
+#EXTSIZE:Small
+http://sat.010e.net:8000/live/milad/milad/1415.ts
+#EXTINF:-1 channelId=”-1″ tvg-logo=”http://kurtce.tvfrekansi.com/wp-content/uploads/2014/12/denge.jpg” aspect-ratio=”1,85:1″ , Denge-Tv
+#EXTSIZE:Small
+http://sat.010e.net:8000/live/milad/milad/1423.ts
