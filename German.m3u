@@ -1,113 +1,135 @@
 #EXTM3U
-#EXTINF:-1,Sat1 
-http://91.204.214.106:23361/stolen/021/rutkit
-#EXTINF:-1,SAT.1 Gold  
-http://91.204.214.106:23361/stolen/025/rutkit
-#EXTINF:-1,ProSieben 
-http://91.204.214.106:23361/stolen/022/rutkit
-#EXTINF:-1,ProSieben MAXX 
-http://91.204.214.106:23361/stolen/026/rutkit
-#EXTINF:-1,kabel eins 
-http://91.204.214.106:23361/stolen/023/rutkit
-#EXTINF:-1,SYFY HD
-http://91.204.214.106:23361/stolen/039/rutkit
-#EXTINF:-1,N24 
-http://91.204.214.106:23361/stolen/024/rutkit
-#EXTINF:-1,ARD
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
-#EXTINF:-1,Arte
-http://delive.artestras.cshls.lldns.net/artestras/contrib/delive.m3u8
-#EXTINF:-1,Joiz
-http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/index_1164_av-p.m3u8
-#EXTINF:-1,ORF III
-http://hls.tv.iptv.ink/orf3at@510154.m3u8|X-Forwarded-For=93.82.18.55
-#EXTINF:-1,ORF Sport+
-http://hls.tv.iptv.ink/orfsportplusat@722628.m3u8|X-Forwarded-For=93.82.18.55
-#EXTINF:-1,hr HD
-http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3128_av-p.m3u8
-#EXTINF:-1,hr
-http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_1628_av-p.m3u8
-#EXTINF:-1,Servus TV AT HD
-http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
-#EXTINF:-1,Servus TV DE HD
-http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
-#EXTINF:-1,Deutsche Welle
-http://dwschiene6-i.akamaihd.net/hls/live/221763/dwschiene6/x6x/playlist6x.m3u8
-#EXTINF:-1,N24
-http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8
-#EXTINF:-1,Tagesschau24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1,blizz TV HD
-http://91.250.73.118:1935/live/_definst_/DasneueTV/playlist.m3u8
-#EXTINF:-1,blizz TV HD (2)
-http://lb.hd-livestream.de/live/DasneueTV/chunklist_w1995293930.m3u8
-#EXTINF:-1,Austria 24
-rtmp://streaming.austria24.tv/live/stream_360p
-#EXTINF:-1,TV Aktuell
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:-1,Elbe Kanal
-rtmp://62.113.210.250/medienasa-live/elbe_high
-#EXTINF:-1,Alex Berlin
-http://api.iptv.ink/pl.m3u8?ch=65304965
-#EXTINF:-1,Augsburg TV
-rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
-#EXTINF:-1,Melodie TV
-http://83.169.58.40:1935/live/_definst_/Melodie/playlist.m3u8
-#EXTINF:-1,Sport Time TV 1
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-#EXTINF:-1,Sport Time TV 2
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-#EXTINF:-1,Sport Time TV 3
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
-#EXTINF:-1,hr-fernsehen
-http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1,NDR Hamburg
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8
-#EXTINF:-1,SWR Fernsehen Rheinland-Pfalz
-http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/master.m3u8
-#EXTINF:-1,Köln.tv
-http://dumontuniversal-lh.akamaihd.net/i/dumontuniversal_1@129833/master.m3u8
-#EXTINF:-1,JOIZ HD
-http://ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/master.m3u8
-#EXTINF:-1,TeleZüri HD
-http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish2/kLive/smil:1_hoislpiz_all.smil/master.m3u8
-#EXTINF:-1,NDR Spezial 1
-http://ndr_spezial-lh.akamaihd.net/i/spezial_1@119227/master.m3u8
-#EXTINF:-1,NDR Spezial 2
-http://ndr_spezial-lh.akamaihd.net/i/spezial_2@119228/master.m3u8
-#EXTINF:-1,NDR Spezial 3
-http://ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/master.m3u8
-#EXTINF:-1,NDR Event 1
-http://ndr_events-lh.akamaihd.net/i/ndrevent_1@119220/master.m3u8
-#EXTINF:-1,NDR Event 2
-http://ndr_events-lh.akamaihd.net/i/ndrevent_2@119221/master.m3u8
-#EXTINF:-1,NDR Event 3
-http://ndr_events-lh.akamaihd.net/i/ndrevent_3@119222/master.m3u8
-#EXTINF:-1,WDR Event 1
-http://wdr_ardevent1-lh.akamaihd.net/i/wdrardevent1_weltweit@112049/master.m3u8
-#EXTINF:-1,WDR Event 2
-http://wdr_event2-lh.akamaihd.net/i/wdrevent2_weltweit@112052/master.m3u8
-#EXTINF:-1,WDR Event 3
-http://wdr_event3-lh.akamaihd.net/i/wdrevent3_weltweit@112053/master.m3u8
-#EXTINF:-1,WDR Event 4
-http://wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/master.m3u8
-#EXTINF:-1,MDR Event 1
-http://mdr_event1_hls-lh.akamaihd.net/i/livetvmdrevent1_de@106904/master.m3u8
-#EXTINF:-1,BR Event 1
-http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/master.m3u8
-#EXTINF:-1,BR Event 2
-http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/master.m3u8
-#EXTINF:-1,BR Event 3
-http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/master.m3u8
-#EXTINF:-1,BR Event 4
-http://brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/master.m3u8
-#EXTINF:-1,RBB Event
-http://rbb_event-lh.akamaihd.net/i/rbbevent_nongeo@107643/master.m3u8
-#EXTINF:-1,HR Event 1
-http://hrevent-lh.akamaihd.net/i/hr_event@309239/master.m3u8
-#EXTINF:-1,HR Event 2
-http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
-#EXTINF:-1,SWR Event 1
-http://swr_event01_uni-lh.akamaihd.net/i/swr_event01@112805/master.m3u8
-#EXTINF:-1,SWR Event 2
-http://swr_event02_uni-lh.akamaihd.net/i/swr_event02@112806/master.m3u8
+#EXTINF:-1,------ Germany ------
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/921.ts
+#EXTINF:-1,DE: Sky Cinema HD
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/988.ts
+#EXTINF:-1,DE: Sky Cinema 1
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/989.ts
+#EXTINF:-1,DE: Cinema 24 HD
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1023.ts
+#EXTINF:-1,DE: Sky Hits
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/985.ts
+#EXTINF:-1,DE: Sky Comedy
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/987.ts
+#EXTINF:-1,DE: Sky Emotion
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/986.ts
+#EXTINF:-1,DE:Fox Serie
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/970.ts
+#EXTINF:-1,DE: AXN Action
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1031.ts
+#EXTINF:-1,DE: ZDF Kultur
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/971.ts
+#EXTINF:-1,DE: ZDF Info
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/972.ts
+#EXTINF:-1,DE: ZDF
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/973.ts
+#EXTINF:-1,DE: VOX
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/974.ts
+#EXTINF:-1,DE: TNT Serie
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/975.ts
+#EXTINF:-1,DE: TLC
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/976.ts
+#EXTINF:-1,DE: SYFY
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/977.ts
+#EXTINF:-1,DE: Super RTL
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/978.ts
+#EXTINF:-1,DE: Sport News HD
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/979.ts
+#EXTINF:-1,DE: Spiegel Geschichte
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/980.ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/982.ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/981.ts
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/991.ts
+#EXTINF:-1,DE: Bundesliga 2
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1030.ts
+#EXTINF:-1,DE: Bundesliga 3
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1029.ts
+#EXTINF:-1,DE: Sky Bundesliga 4
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/990.ts
+#EXTINF:-1,DE: Bundesliga 5
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1028.ts
+#EXTINF:-1,DE: Bundesliga 6
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1027.ts
+#EXTINF:-1,DE: Bundesliga 7
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1026.ts
+#EXTINF:-1,DE: Bundesliga 8
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1025.ts
+#EXTINF:-1,DE: Bundesliga 9
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1024.ts
+#EXTINF:-1,DE: Sky Nostalgie
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/983.ts
+#EXTINF:-1,DE: Sky Krimi
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/984.ts
+#EXTINF:-1,DE: Sky Atlantic
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/992.ts
+#EXTINF:-1,DE: Sky Action HD
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/993.ts
+#EXTINF:-1,DE: Sixx
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/994.ts
+#EXTINF:-1,DE: Sat 1 Gold
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/995.ts
+#EXTINF:-1,DE: Sat 1 Emotions
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/996.ts
+#EXTINF:-1,DE: Sat 1
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/997.ts
+#EXTINF:-1,DE: RTL Television
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/998.ts
+#EXTINF:-1,DE: RTL Passion
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/999.ts
+#EXTINF:-1,DE: RTL Nitro
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1000.ts
+#EXTINF:-1,DE: RTL Living
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1001.ts
+#EXTINF:-1,DE: RTL Crime
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1002.ts
+#EXTINF:-1,DE: RTL 2
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1003.ts
+#EXTINF:-1,DE: Romance TV
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1004.ts
+#EXTINF:-1,DE: Pro Sieben Maxx
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1005.ts
+#EXTINF:-1,DE: Pro 7 HD
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1006.ts
+#EXTINF:-1,DE: National Geographic
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1007.ts
+#EXTINF:-1,DE: Nat Geo Wild
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1008.ts
+#EXTINF:-1,DE: N24
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1009.ts
+#EXTINF:-1,DE: N-TV
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1010.ts
+#EXTINF:-1,DE: MGM
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1011.ts
+#EXTINF:-1,DE: Kinowelt TV
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1012.ts
+#EXTINF:-1,DE: KIKA
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1013.ts
+#EXTINF:-1,DE: Kabel Eins
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1014.ts
+#EXTINF:-1,DE: Junior
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1015.ts
+#EXTINF:-1,DE: History HD
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1016.ts
+#EXTINF:-1,DE: HeimatKanal
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1017.ts
+#EXTINF:-1,DE: DMAX
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1018.ts
+#EXTINF:-1,DE: Disney XD
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1019.ts
+#EXTINF:-1,DE: Disney Cinemagic
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1020.ts
+#EXTINF:-1,DE: Disney Channel
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1021.ts
+#EXTINF:-1,DE: Discovery Channel
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1022.ts
+#EXTINF:-1,DE: ARD
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1032.ts
+#EXTINF:-1,DE: 3Sat
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1033.ts
+#EXTINF:-1,DE: 13th Street
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1034.ts
+#EXTINF:-1,DE: 1-2-3.TV
+http://cielonline.proff.co:15004/live/amedeo2/amedeo2/1035.ts
