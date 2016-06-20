@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Eurosport 1
+ http://213.81.153.241/live001/channel014_p4.stream/DVR.m3u8
+#EXTINF:-1,Film BOX
+ http://213.81.153.241/live001/channel018_p4.stream/DVR.m3u8
+#EXTINF:-1,Digi Sport 3
+ http://213.81.153.241/live001/channel026_p4.stream/DVR.m3u8
+#EXTINF:-1,Nova Sport 1
+ http://213.81.153.241/live001/channel028_p4.stream/DVR.m3u8
+#EXTINF:-1,O1
+ http://213.81.153.241/live001/channel031_p4.stream/DVR.m3u8
+#EXTINF:-1,O2
+ http://213.81.153.241/live001/channel032_p4.stream/DVR.m3u8
+#EXTINF:-1,O24
+ http://213.81.153.241/live001/channel033_p4.stream/DVR.m3u8
+#EXTINF:-1,Discovery
+ http://213.81.153.241/live001/channel034_p4.stream/DVR.m3u8
+#EXTINF:-1,Animal Planet
+ http://213.81.153.241/live001/channel036_p4.stream/DVR.m3u8
+#EXTINF:-1,N/A
+ http://213.81.153.241/live001/channel040_p4.stream/DVR.m3u8
+#EXTINF:-1,AXN
+ http://213.81.153.241/live001/channel046_p4.stream/DVR.m3u8
+#EXTINF:-1,Megamax
+ http://213.81.153.241/live001/channel049_p4.stream/DVR.m3u8
+#EXTINF:-1,JimJam
+ http://213.81.153.241/live001/channel050_p4.stream/DVR.m3u8
+#EXTINF:-1,amc
+ http://213.81.153.241/live001/channel052_p4.stream/DVR.m3u8
+#EXTINF:-1,Spectrum
+ http://213.81.153.241/live001/channel054_p4.stream/DVR.m3u8
+#EXTINF:-1,SpectrumHome
+ http://213.81.153.241/live001/channel056_p4.stream/DVR.m3u8
